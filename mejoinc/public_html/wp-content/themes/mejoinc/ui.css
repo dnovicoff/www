@@ -1,0 +1,92 @@
+/* 
+ * UI
+ */
+.commentAuthor {  background-color: #009ac8 !important;  }
+ul.iconList {list-style:none;}
+ul.iconList li { margin:4px 0 4px 8px; }
+hr{border:0 #e6e6e6 solid;border-top-width:1px;clear:both;height:0;margin:6px 0;}
+.icon-webhosting, .icon-webdesign, .icon-mobiledev, .icon-webdev, .icon-controlpanel, .icon-ssl, .icon-dedicated,
+.icon-support, .icon-support2, .icon-developer, .icon-database, .icon-webstats, .icon-ecommerce, .icon-packages,
+.icon-domain, .icon-email, .icon-ftp, .icon-datacenter, .icon-appgui, .icon-appenterprise, .icon-appmarketing,
+.icon-appdistribution, .icon-appmonitizing, .icon-applocal, .icon-appbranding, .icon-appsource, .icon-appdevelopers,
+.icon-scalable, .icon-standards, .icon-crossbrowser, .icon-bugreport, .icon-wordpress, .icon-deployable, .icon-userinterface,
+.icon-speed, .icon-multilevel, .icon-database, .icon-webservice, .icon-mobile, .icon-tick, .icon-determineneeds,.icon-discuss,
+.icon-deliver
+  { height:32px; padding-left:40px; padding-top:4px;  }
+  
+
+ /* WEB HOSTING */
+.icon-tick          { background:transparent url('images/icons/32/tick.png') no-repeat;  }
+.icon-determineneeds  { background:transparent url('images/icons/32/brain.png') no-repeat; }
+.icon-discuss       { background:transparent url('images/icons/32/comments.png') no-repeat; }
+.icon-deliver       { background:transparent url('images/icons/32/box_down.png') no-repeat; }
+
+ /* WEB HOSTING */
+.icon-controlpanel  { background:transparent url('images/icons/32/control-panel-32px-png.png') no-repeat;  }
+.icon-support       { background:transparent url('images/icons/32/support-32px-png.png') no-repeat;  }
+.icon-support2      { background:transparent url('images/icons/32/support.png') no-repeat;  }
+.icon-developer     { background:transparent url('images/icons/32/website-builder-32px-png.png') no-repeat; }
+.icon-database      { background:transparent url('images/icons/32/database-32px-png.png') no-repeat;  }
+.icon-webstats      { background:transparent url('images/icons/32/web-space-32px-png.png') no-repeat;  }
+.icon-ecommerce     { background:transparent url('images/icons/32/e-commerce-32px-png.png') no-repeat;  }
+.icon-domain        { background:transparent url('images/icons/32/domain-names-32px-png.png') no-repeat;   }
+.icon-email         { background:transparent url('images/icons/32/email-32px-png.png') no-repeat;  }
+.icon-ftp           { background:transparent url('images/icons/32/ftp-32px-png.png') no-repeat; }
+.icon-datacenter    { background:transparent url('images/icons/32/data-center-32px-png.png') no-repeat;  }
+.icon-dedicated     { background:transparent url('images/icons/32/dedicated-server-32px-png.png') no-repeat;  }
+.icon-ssl           { background:transparent url('images/icons/32/secure-server-32px-png.png') no-repeat;  }
+.icon-packages      { background:transparent url('images/icons/32/installer_box.png') no-repeat; }
+
+/* MOBILE DEV */
+.icon-appgui        { background:transparent url('images/icons/32/application_view_gallery.png') no-repeat; }
+.icon-appenterprise { background:transparent url('images/icons/32/small_business.png') no-repeat; }
+.icon-appmarketing  { background:transparent url('images/icons/32/chart_up_color.png') no-repeat; }
+.icon-appdistribution { background:transparent url('images/icons/32/cart_put.png') no-repeat; }
+.icon-appmonitizing { background:transparent url('images/icons/32/coins.png') no-repeat; }
+.icon-applocal      { background:transparent url('images/icons/32/locate.png') no-repeat; }
+.icon-appbranding   { background:transparent url('images/icons/32/places.png') no-repeat;}
+.icon-appsource     { background:transparent url('images/icons/32/source_code.png') no-repeat; }
+.icon-appdevelopers { background:transparent url('images/icons/32/user_zorro.png') no-repeat; }
+
+/* WEB DEV */
+.icon-scalable      { background:transparent url('images/icons/32/transform_scale.png') no-repeat; }
+.icon-standards     { background:transparent url('images/icons/32/accept.png') no-repeat; }
+.icon-crossbrowser  { background:transparent url('images/icons/32/world.png') no-repeat; }
+.icon-bugreport     { background:transparent url('images/icons/32/bug.png') no-repeat; }
+.icon-wordpress     { background:transparent url('images/icons/32/wordpress.png') no-repeat; }
+.icon-deployable    { background:transparent url('images/icons/32/update.png') no-repeat; }
+.icon-userinterface { background:transparent url('images/icons/32/application_view_gallery.png') no-repeat; }
+.icon-speed         { background:transparent url('images/icons/32/lightning.png') no-repeat;}
+.icon-multilevel    { background:transparent url('images/icons/32/layers_map.png') no-repeat; }
+.icon-database      { background:transparent url('images/icons/32/database_server.png') no-repeat; }
+.icon-webservice    { background:transparent url('images/icons/32/server_components.png') no-repeat; }
+.icon-mobile        { background:transparent url('images/icons/32/iphone.jpg') no-repeat; }
+
+
+/* text */
+#copyright { color:#fff; }
+/*  Services columns */
+#highlighted-features { clear:both; display:inline-block; width:100% }
+.col45p     { display:inline-block; width:45%; float:left; padding:4px; }
+.col45p ul  { list-style:none; }
+.col45p li  { padding-top:4px; margin:4px; color:#000;}
+
+/* widget */
+.widget_lastfm h3   {height:32px; padding-left:40px; padding-top:0; background:transparent url('images/icons/social/lastfm_32.png') no-repeat; }
+.widget_tag_cloud h3  { height:32px; padding-left:40px; padding-top:0; background:transparent url('images/icons/32/tags_cloud.png') no-repeat; }
+.popular-posts h3 { height:32px; padding-left:40px; padding-top:0; background:transparent url('images/icons/32/fire.png') no-repeat; }
+.recent_tweets h3 { height:32px; padding-left:40px; padding-top:0; background:transparent url('images/icons/32/twitter_2.png') no-repeat; }
+.popular-posts img  { border:1px solid #ddd; }
+  li.lastfm-item      { font-size:80%; overflow:hidden; }
+
+/* Tooltips */
+.tooltip {
+  display:none;
+  background:url('images/ui/black_arrow_big.png');
+  height:170px;
+  left:-20px;
+  padding:30px 30px 10px 30px;
+  width:310px;
+  font-size:12px;
+  color:#fff;
+}

@@ -1,0 +1,61 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+                <center>
+                        <img src="/img/executive-cleaning-solutions/service.jpg" alt="Services" height="400" width="1200" />
+                </center>
+        </replaceContent>
+
+	<replaceContent select="#quotecenterright">
+		<br />
+		<div style="padding:1%;">
+			24875 Novi Rd. #264<br />
+			Novi, MI. 48376<br />
+			(248)767-0976<br />
+			<a href="mailto:erik@executive-cleaning-solutions.com?Subject=Executive-Cleaning-Solutions" class="nav">
+				Customer Service</a><br /><br />
+			<br /><br />
+			<img height="384" width="322" src="/img/executive-cleaning-solutions/MichiganTriCountyMap.jpg" />
+		</div>
+		<br />
+	</replaceContent>
+
+	<replaceContent select="#quotecenterleft">
+		<br />
+		<div style="padding:1%;">
+
+		You deserve to walk into an immaculately clean facility when you arrive to work. 
+		Executive Cleaning Solutions promises that you will appreciate the cleanliness of your 
+		facility and also our highly trained staff. 
+		<br /><br />
+
+		Many have asked, what is the benefit of outsourcing your cleaning service? Simply said, 
+		cleaning is what we do!  You can focus on your work and do not have to worry about who is 
+		going to clean the bathroom or vacuum the floors. We will take care of all your office cleaning needs, 
+		promise!  There is a saying "You never get a second change to make a first impression". 
+		You want your employees, customer and guests to be in an environment that shows you care.
+		<br /><br />
+
+		Executive Cleaning Solution offers:<br />
+		<ul>
+			<li>Around the clock operational support</li>
+			<li>Flexible cleaning plans to fit your needs</li>
+			<li>Restocking</li>
+			<li>Incredible staff that will dedicate themselves to your facility</li>
+		</ul><br />
+
+		If you’re a management company looking for a cleaning provider to service multiple locations 
+		or a single property owner, Executive Cleaning Solutions is the best choice for you.  
+		Simply call us or complete the “get a quote” information and we will discuss the best plan that will work for you.
+		<br /><br />
+
+		<img src="/img/executive-cleaning-solutions/servicesOfficeCleaningMidLeft.jpg" height="400" width="300" /><br />
+
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

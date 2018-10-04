@@ -1,0 +1,235 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+		<div id="gallery" class="gallery">
+			<ul class="galleryBar">
+
+			<li>
+			  <a href="/img/upland-homeinc/gallery/full/1808Garden-room_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/1808Garden-room_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="67" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/1835Stone-fireplace_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/1835Stone-fireplace_tmb.jpg" alt="Upland: Gallery" title="" width="67" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/Kensington_Kitchen_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/Kensington_Kitchen_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/Kensington_Office_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/Kensington_Office_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonFoyer_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonFoyer_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonFoyer2_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonFoyer2_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+
+
+			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonGR_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonGR_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonGreatRoom_Overlook_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonGreatRoom_Overlook_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonGreatRoom_Overlook2_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonGreatRoom_Overlook2_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonJacknJill_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonJacknJill_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonJnJ_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonJnJ_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonJnJ2_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonJnJ2_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+
+		
+			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonJnJCloset_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonJnJCloset_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonLRDR_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonLRDR_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonMaster_BR_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonMaster_BR_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/KensingtonMaster_BR2_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/KensingtonMaster_BR2_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/Pembrooke_Great_Room3_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/Pembrooke_Great_Room3_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/Pembrooke2way_fp_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/Pembrooke2way_fp_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+
+
+			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookeFoyer_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookeFoyer_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookeGreat_Room2_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookeGreat_Room2_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookeLoft_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookeLoft_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookeMaster_BR_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookeMaster_BR_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookeMaster_BR3_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookeMaster_BR3_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookeMaster_WIC_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookeMaster_WIC_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+
+
+			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookeMaster_WIC2_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookeMaster_WIC2_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookeOffice_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookeOffice_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookeOffice2_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookeOffice2_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookePillars2_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookePillars2_tmb.jpg" alt="Upland: Gallery" title="" width="75" height="100" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/PembrookePrincessSuite_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/PembrookePrincessSuite_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02081_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02081_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02083_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02083_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02086_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02086_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02087_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02087_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02104_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02104_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02128_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02128_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02132_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02132_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02135_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02135_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02143_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02143_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02149_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02149_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+    			<li>
+			  <a href="/img/upland-homeinc/gallery/full/DSC02166_fs.jpg">
+			  <img src="/img/upland-homeinc/gallery/thumb/DSC02166_tmb.jpg" alt="Upland: Gallery" title="" width="100" height="75" />
+			  </a>
+			</li>
+
+
+			</ul>
+		</div>
+		<div style="clear:both;"><br /></div>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+		$('#gallery').gallery({
+			interval:5000,
+			height:'500px',
+			width:'400px'
+		});
+	]]></eval>
+</taconite>

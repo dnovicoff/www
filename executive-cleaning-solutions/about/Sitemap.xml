@@ -1,0 +1,46 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+                <center>
+                        <img src="/img/executive-cleaning-solutions/why-us.jpg" height="400" width="1200" alt="Why us" />
+                </center>
+        </replaceContent>
+
+	<replaceContent select="#quotecenterright">
+		<br />
+		<div style="padding:1%;">
+
+		<ul>
+			<li><a href="/" class="nav">Home</a></li><br />
+			<li><a href="#" class="sitemap nav" id="servicesCleaningServices">Services</a></li>
+				<ul>
+					<li><a href="#" class="sitemap nav" id="servicesOfficeCleaning">Office Cleaning</a></li>
+					<li><a href="#" class="sitemap nav" id="servicesDayPorterCleaning">Day PorterCleaning</a></li>
+					<li><a href="#" class="sitemap nav" id="servicesEmergencyCleaning">Emergency Cleaning</a></li>
+					<li><a href="#" class="sitemap nav" id="servicesFloorAndCarpetCare">Floor and Carpet Care</a></li>
+					<li><a href="#" class="sitemap nav" id="servicesWindowCleaning">Window Cleaning</a></li>
+				</ul><br />
+			<li><a href="#" class="sitemap nav" id="aboutAboutMain">About</a></li>
+				<ul>
+					<li><a href="#" class="sitemap nav" id="aboutMisson">Misson</a></li>
+					<li><a href="#" class="sitemap nav" id="aboutSitemap">Site map</a></li>
+					<li><a href="#" class="sitemap nav" id="aboutStaff">Staff</a></li>
+				</ul><br />
+			<li><a href="#" class="nav">Contact</a></li>
+				<ul>
+					<li><a href="#" class="sitemap nav" id="contactContact">Contact Us</a></li>
+				</ul><br />
+			<li><a href="#" class="sitemap nav" id="careersCareers">Careers</a></li>
+		</ul>
+ 
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+		$('.sitemap').click(function (data)  {
+			getAJAX($(this).attr("id"));
+		});
+	]]></eval>
+</taconite>

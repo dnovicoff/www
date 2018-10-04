@@ -1,0 +1,17 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+		<div style="width:100%">
+			<img width="650" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" />
+		</div>
+		<div class="style5" style="width;100%">
+			<img width="650" height="1200" alt="Carrington Floor Plan" src="/img/upland-homeinc/communities/CenturyOaks/carringtonFP.jpg" />
+		</div>
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

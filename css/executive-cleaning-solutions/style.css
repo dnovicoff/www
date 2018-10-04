@@ -1,0 +1,224 @@
+
+
+body{
+	font-size:14px;
+	height:100%;
+	font-family: 'Duru Sans', sans-serif;
+}
+#banner{
+	 /* fallback */ 
+	background-color: white; 
+	background: url(images/linear_bg_2.png); 
+	background-repeat: repeat-x; 
+
+	filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#000000', endColorStr='#FFFFFF', GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.Gradient(startColorStr='#000000', endColorStr='#FFFFFF', GradientType=0)";
+
+	/* Mozilla Firefox */
+	background-image: -moz-linear-gradient(top, #FFFFFF 0%, #000000 100%);
+
+	/* Safari 4-5, Chrome 1-9 */ 
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(black), to(white)); 
+	
+	/* Safari 5.1, Chrome 10+ */ 
+	background: -webkit-linear-gradient(top, black, white); 
+
+	/* Firefox 3.6+ */ 
+	background: -moz-linear-gradient(top, black, white);
+
+	/* IE 10 */ 
+	background: -ms-linear-gradient(top, black, white); 
+
+	/* Opera 11.10+ */ 
+	background: -o-linear-gradient(top, black, white);
+}
+
+.footerGradient{
+	/* IE10 Consumer Preview */ 
+background-image: -ms-linear-gradient(top, #FFFFFF 0%, #000000 100%);
+
+        filter: progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#000000', GradientType=0);
+        -ms-filter: "progid:DXImageTransform.Microsoft.Gradient(startColorStr='#FFFFFF', endColorStr='#000000', GradientType=0)";
+
+/* Mozilla Firefox */ 
+background-image: -moz-linear-gradient(top, #FFFFFF 0%, #000000 100%);
+
+/* Opera */ 
+background-image: -o-linear-gradient(top, #FFFFFF 0%, #000000 100%);
+
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #FFFFFF), color-stop(1, #000000));
+
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-linear-gradient(top, #FFFFFF 0%, #000000 100%);
+
+/* W3C Markup, IE10 Release Preview */ 
+background-image: linear-gradient(to bottom, #FFFFFF 0%, #000000 100%);
+}
+
+
+.textEffects{
+	color:white;
+	text-shadow:0.1em 0.1em 0.2em black;
+	text-decoration:none;
+}
+.textEffectWhite{
+	text-shadow:0.1em 0.1em 0.2em white;
+}
+
+ul.cssMenu, ul.cssMenu ul
+        {
+        	list-style:none;
+        	margin:0; padding:0;
+        	position: relative;
+        }
+		
+		/*Style for 1st level menu header*/
+        ul.cssMenu li
+        { 
+        	position: relative; 
+        	float: left; 
+        	zoom: 1; /*Needed for IE*/
+        	/*  background: #DDDDDD; background color of menu header (1st level)*/
+        }
+        ul.cssMenu li:hover
+        { 
+        	/** background: #AAAAAA /*background color of menu header (1st level) on hover*/; 
+        }
+        ul.cssMenu li a
+        {
+			/*Menu link styles*/
+        	display: block; 
+        	padding: 0px 4px 0px 5px; 
+        	/*  color:#42c3ff;  */
+        	font-family: Arial, Times New Roman, Tahoma;
+        	font-size: 12px;
+        }
+        
+        /* Building menu items - for 2nd and more level menu items*/
+        ul.cssMenu ul 						
+        { 
+        	display:none; /*initially menu item is hidden*/
+        	position: absolute; /*absolute positioning is important for menu to float*/
+		width: 150px;
+			
+			/*Formating of menu items*/
+        	border:1px solid #AAAAAA;
+        	padding:1px;
+        	background:#FFFFFF;
+			
+			/*optional - to change position of 2nd level menu item*/
+			top: 100%; 
+        	left: 0; 
+        }
+        ul.cssMenu ul li
+        { 
+        	/*  background: #F5F5F5; */
+        	color: #000; 
+			border-bottom: 1px solid #DDDDDD; 
+			float: none; 
+		}
+									  
+        ul.cssMenu ul li a
+        { 
+        	width: 100%; 
+        	display: block; 
+        	/*  color:#000000;  */
+        } 
+
+        /* Menu item position for 3rd level and more */
+        ul.cssMenu ul ul
+        { 
+        	left: 100%; 
+        	top: 0; 
+        }
+        
+        /* Hover effect for menu*/
+        ul.cssMenu li:hover > ul 			
+        { 
+        	display:block;
+        }
+
+h1{
+	font-size:300%;
+}
+img{
+	border:none;
+}
+.contactError{
+	color:red;
+	font-size:10px;
+}
+
+.menuSubLinks{
+	padding:5px;
+}
+.subNav{
+	color:blue;
+	text-decoration:none;
+}
+.nav{
+	color:blue;
+	text-decoration:none;
+}
+.headline{
+	color:blue;
+	font-weight:bold;
+	font-size:18px;
+}
+#topPicture{
+	border:1px;
+	border-color:blue;
+}
+
+#quotescointainer{
+    width: 100%;
+	clear: both;
+	float: left;
+    font-size: 10px;
+}
+.quoteleft{
+ 	float:left; 
+	clear: right;
+ 	width: 6%;
+	/** overflow:scroll;  **/
+ 	padding-left:1%;
+ 	padding-right:1%;
+	display:inline;
+}
+.blueBorder{
+	border-style:solid;
+	border-width:1px;
+	border-color:blue;
+}
+.quotecenter{
+	float:left;
+	clear: right;
+	width:36%;
+	padding-left:0%;
+	padding-right:0%;
+	text-align:justify;
+}
+.quoteright{
+    float:left;
+	text-align:right;
+	clear:right;
+    width: 6%;
+    padding-left:1%;
+    padding-right:1%;
+}
+
+.row{
+	clear:both;
+	/**  float:left;  **/
+	width:100%;
+}
+.col{
+	clear:right;
+	float:left;
+	width:auto;
+	word-wrap:break-word;
+	display:inline;
+	padding-left:2%;
+	padding-right:2%;
+}

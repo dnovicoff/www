@@ -1,0 +1,73 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="style5"><div><img width="468" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" /></div>                </td>
+            </tr>
+            <tr>
+              <td class="style5"><table bgcolor="#860C17" align="center" width="455" cellspacing="2" cellpadding="2" border="0">
+                <tbody><tr>
+                  <td><span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">Ready
+                      to Own Homes </span></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                      <p class="style3Link">Homesite #13</p>
+                    <p>    • Floorplan - Windsor <br />
+                         • 1700 Square Feet</p>
+                    <p class="style6">THIS SMART RANCH DESIGN FEELS OPEN AND
+                      AIRY WITH ITS VAULTED GREAT ROOM, DINING ROOM AND FOYER.
+                      THE SECLUSION OF THE MASTER SUITE FROM THE REST OF THE
+                      HOME ADDS TO THE FEELING OF SPACE IN THIS HOME. IF YOU
+                      ARE LOOKING FOR MORE SPACE, WE CAN FINISH THE WALKOUT LOWER
+                      LEVEL TO DOUBLE THE SQUARE FOOTAGE. STILL TIME TO CUSTOMIZE
+                      THIS UNIQUE HOME TO YOUR PREFERRED FINISHES.</p>
+                  </div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                      <p class="style3Link">Homesite #14 </p>
+                    <p>   • Floorplan - Ellington <br />
+                         • 2351 Square Feet </p>
+                    <p class="style6">ON THE FOUNDATION OF A WALKOUT LOWER LEVEL,
+                      THIS CREATIVE DESIGN FEATURES A DUAL STAIRCASE, BUTLERS
+                      PANTRY OFF DINING, OPEN AIRY GOURMET KITCHEN WITH GRANITE
+                      COUNTERS, HARDWOOD FLOORS, AN ADJOINING GREAT ROOM WITH
+                      FIREPLACE AND 9FT CEILING. A STUNNING PRIVATE LIBRARY ROUNDS
+                      OUT THE FIRST FLOOR. SECOND FLOOR LAUNDRY. A MASTER SUITE
+                      DESIGNED AS A RETREAT. 3 ADDITIONALL BEDROOMS COMPLETE
+                      THIS BEAUTIFUL
+                      HOME. </p>
+                  </div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                      <p class="style3Link">Homesite #15</p>
+                    <p>    • Floorplan - Clairmont <br />
+                         • 2096 Square Feet</p>
+                    <p class="style6">THE CREATIVE DESIGN OF THIS ELEGANT RANCH
+                      HOME WILL BE SURE TO ENHANCE EVEN THE MOST SELECTIVE HOME
+                      BUYERS LIFESTYLE. 12 FT CEILINGS, 2 SIDED FIREPLACE NESTLED
+                      BETWEEN THE GREAT ROOM AND SPACIOUS GOURMET KITCHEN. A
+                      BUTLERS PANTRY OFF DINING ROOM. THE RETREAT STYLE MASTER
+                      SUITE FEATURES HIS AND HER WALK IN CLOSETS, TRAY CEILING AND
+                      BEAUTIFUL BATH WITH LARGE SOAKING TUB AND SEPARATE SHOWER.</p>
+                  </div></td>
+                </tr>
+                
+              </tbody></table></td>
+            </tr>
+          </tbody></table>
+
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

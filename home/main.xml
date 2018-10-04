@@ -1,0 +1,23 @@
+
+
+<taconite>
+	<replaceContent select="#quotescenter">
+		<br />
+		<div class="raisedBox">
+		<div style="padding:1%">
+		<h4>Logo</h4>
+	
+		<t /><i><b><font color="#333333">Were just the lifeline that you need.</font></b></i><br /><br />
+			Were in the business to solve your inter-connectivity issues. You need to reach your customers on whatever
+			platform they may be using. You need an intuitive solution that simplifies your day to day operations. 
+			We want to empower you with as much as you need. Be that in a homegrown solution for the beginnings of your
+			enterprise, or an enterprise wide framework reaching your entire organization. 
+		<p />
+		</div>
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

@@ -1,0 +1,42 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+                <center>
+                        <img src="/img/executive-cleaning-solutions/why-us.jpg" height="400" width="1200" alt="Why us" />
+                </center>
+        </replaceContent>
+
+	<replaceContent select="#quotecenterleft">
+		<br />
+		<div style="padding:1%;">
+			<div class="headline">Executive Cleaning Solutions promises you this when it comes to our staff</div><br />
+
+			<br /><br />
+			<ul>
+				<li>Executive Cleaning Solutions is extremely selective during the hiring process</li>
+				<li>Each staff member is background checked</li>
+				<li>Fully insured</li>
+				<li>Bonded</li>
+				<li>A staff member(s) will be assigned and trained to your facility</li>
+				<li>Great personality</li>
+				<li>Understands the importance of confidentiality </li>
+				<li>Trustworthy</li>
+			</ul>
+			<br /><br />
+			Positive personality traits and a hard working attitude, comes from within. 
+			These are the type of people we target to have represent Executive Cleaning Solutions.  
+			We are in a service industry and realize our people are our biggest asset.
+			Executive Cleaning Solutions knows that you will enjoy having our <b>incredible staff </b>
+			maintain your facility.   <b>Call today</b> for your free quote and to find out how our 
+			incredible staff can begin servicing your location.
+
+
+	
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

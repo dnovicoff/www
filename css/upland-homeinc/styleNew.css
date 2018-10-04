@@ -1,0 +1,105 @@
+
+
+body {
+        margin-left: 0px;
+        margin-top: 20px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+	padding: 0;
+	font-size:16px;
+        background-color: #D1CDC2;
+	height:100%;
+}
+a:link {
+        color: #336666;
+}
+a:visited {
+        color: #666666;
+}
+a:active {
+        color: #0099CC;
+}
+
+.navTable  {
+	border-collapse:collapse;
+	width:100%;
+	border:0;
+}
+.navTable tbody  {
+	border:0;
+}
+.navTable td  {
+	border:0;
+	width:16%;
+}
+
+.tableStyle{
+	width:100%;
+	background-color:#FFFFFF;
+	border-style:solid;
+	border-width:2px;
+	border-color:#860C17;
+	line-height:14px;
+	text-align:left;
+}
+.outerShell{
+	width:auto;
+}
+
+.container{
+	background-color:white;
+	background-image:url('/img/upland-homeinc/index_r5_c5.gif');
+	width:1000px;
+}
+.left{
+	width:300px;
+	height:90%;
+	float:left;
+	padding-right:25px;
+}
+.right{
+	width:650px;
+	height:90%;
+	float:left;
+	padding-right:25px;
+	word-wrap:break-word;
+}
+
+.row{
+	clear:both;
+	width:100%;
+}
+.col{
+	clear:right;
+	float:left;
+	width:auto;
+	display:inline;
+	border:0;
+}
+.formSpanLeft{
+	width:20%;
+	clear:right;
+	float:left;
+}
+.formSpanRight{
+	width:80%;
+	clear:right;
+	float:right;
+	text-align:left;
+}
+.communitiesStyleOuter{
+	font-family: 'trebuchet ms'arial,sans-serif;
+	font-size: 12px; 
+	width: 100%;
+}
+.communitiesStyleInner{
+	font-family: 'trebuchet ms',arial,sans-serif; 
+	font-size: 12px; 
+	padding-left: 25px; 
+	line-height: 14px; 
+	padding-right: 6px; 
+	padding-bottom: 20px;
+	clear:right;
+	float:left;
+	width:40%;
+}

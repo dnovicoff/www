@@ -1,0 +1,65 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="style5"><div><img width="468" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" /></div>
+                </td>
+            </tr>
+            <tr>
+              <td class="style5"><table bgcolor="#860C17" align="center" width="455" cellspacing="2" cellpadding="2" border="0">
+                <tbody><tr>
+                  <td width="43%"><span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">The
+                      Pembrooke</span></td>
+                  <td class="style6"><div align="right" class="style2">Colonial</div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><table bgcolor="#FFFFFF" align="center" width="455" cellspacing="0" cellpadding="5" border="0">
+                    <tbody><tr>
+                      <td width="47%" height="250"><div align="center"><img width="360" height="219" alt="Pembrooke Elevation" src="/img/upland-homeinc/communities/orchardhills/Pembrooke/pembrooke_elev.gif" /></div></td>
+                    </tr>
+                    <tr>
+                      <td valign="top">4 bedrooms/3.5 bathrooms, 3316 square
+                        feet </td>
+                    </tr>
+                    <tr>
+                      <td bgcolor="#FFFFFF" valign="top" class="style8">1st Floor </td>
+                    </tr>
+                    <tr>
+                      <td bgcolor="#FFFFFF" height="250"><div align="left"><img width="235" height="255" alt="1st Floor" src="/img/upland-homeinc/communities/orchardhills/Pembrooke/FP_1st.gif" /></div></td>
+                    </tr>
+                    <tr>
+                      <td bgcolor="#FFFFFF" valign="top"><div align="right" class="style8">2nd
+                          Floor </div></td>
+                    </tr>
+                    <tr>
+                      <td bgcolor="#FFFFFF" valign="top"><div align="right"><img width="235" height="255" alt="2nd Floor" src="/img/upland-homeinc/communities/orchardhills/Pembrooke/FP_2nd.gif" /></div></td>
+                    </tr>
+                    <tr>
+                      <td valign="top"><div style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style9small">Disclaimer:
+                          Prices, plans, specifications manufacturers' brands
+                          and availability are subject to change without notice
+                          or obligation. All renderings are artist's concept.
+                          Floor plans are intended to serve as a guide, not to
+                          accurately depict the legal description of the property's
+                          boundaries, dimensions, scale of rooms and their relative
+                          locations. </div></td>
+                    </tr>
+                  </tbody></table></td>
+                  </tr>
+              </tbody></table></td>
+            </tr>
+            <tr>
+              <td height="86" class="style5"> </td>
+            </tr>
+          </tbody></table>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

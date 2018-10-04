@@ -1,0 +1,50 @@
+
+
+<taconite>
+
+	<replaceContent select="#topPicture">
+		<center>
+			<img src="/img/executive-cleaning-solutions/why-us.jpg" height="400" width="1200" alt="Why us" />
+		</center>
+	</replaceContent>
+	<replaceContent select="#quotecenterleft">
+		<br />
+		<div style="padding:1%;">
+			<div class="headline">Executive Cleaning Solutions is the right choice for you</div><br /><br />
+
+
+			What drives us to be the best in this very competitive industry? Executive 
+			Cleaning Solutions is driven by our commitment to customer service. We have 
+			found over the years that our customer service and client satisfaction results 
+			in long term relationships.   You will not have to worry about juggling cleaning 
+			companies once you have Executive Cleaning Solutions inside your facility.  
+			This always you to focus on your job, while we focus on keeping your work environment clean.  
+			<br /><br />
+			Executive Cleaning Solutions can help you reduce your workload. Not only can we ensure a clean 
+			facility, but we can handle your supply ordering (soap, toilet paper, etc.), floor maintenance, 
+			windowing cleaning, along with other services. By using us as a <b>“one stop shop”</b>, 
+			you will not have to be concerned about all these stressors. 
+			<br /><br />
+			Our statistics show, on an average we maintain our clients for over five years. 
+			We are proud of this measurable, as it shows that our <b>rates are competitive, 
+			the service is exceptional</b> and our clients <b>appreciate</b> the <b>staff</b> we employ. 
+			By contacting Executive Cleaning Solutions today, we will begin working towards a 
+			cleaning plan that is conducive to your needs.
+			<br /><br />
+			<b>What we provide</b>
+			<br />
+			<ul>
+				<li>An effective plan to ensure your facility is clean based on your requirements</li>
+				<li>Superior service from our highly trained and friendly staff</li>
+				<li>We use “green” supplies and environment friendly equipment</li>
+				<li>Flexibility and commitment </li>
+			</ul>
+
+
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

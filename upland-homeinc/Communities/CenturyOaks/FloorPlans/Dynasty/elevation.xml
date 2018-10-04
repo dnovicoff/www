@@ -1,0 +1,18 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+		<div class="style5" style="width:100%">
+ 			<img width="650" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" />
+		</div>
+		<div style="width:100%">
+			<img width="650" height="500" alt="Dynasty Elevation" src="/img/upland-homeinc/communities/CenturyOaks/dynastyElev.jpg" />
+		</div>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

@@ -1,0 +1,23 @@
+
+
+<taconite>
+	<replaceContent select="#quotescenter">
+		<br />
+		<div class="raisedBox">
+		<div style="padding:1%;">
+			<h4>Contact</h4>
+			<br /><br />
+			Located in Southfield Michigan.<br /><br />
+			Phone Office: 248-353-4257<br />
+			Phone Mobile: 248-633-6009<br />
+			Email: dnovicoff@dependentfree.com<br />
+			<br />
+			We offer 24 / 7 support. Regardless of the problem <br /><br />
+		</div>
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

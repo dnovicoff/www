@@ -1,0 +1,158 @@
+
+
+/* ================================================================ 
+This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/dd_valid.html
+Copyright (c) 2005-2007 Stu Nicholls. All rights reserved.
+This stylesheet and the assocaited (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+/* common styling */
+.menu {
+	width:854px; 
+	height:27px; 
+	position:relative; 
+	font-size: .9em;
+	z-index:100;
+	float: left;
+	margin: 35px 0 -9px 30px;
+ }
+
+.menu ul li a, .menu ul li a:visited {
+	display:block; 
+	text-decoration:none; 
+	overflow:hidden;
+}
+
+.menu ul {
+	padding:0; 
+	margin:0; 
+	list-style: none;
+}
+
+.menu ul li {
+	float:left; 
+	position:relative;
+}
+
+.menu ul li ul {
+	display: none;
+}
+
+.menu ul li ul li {
+	width: 160px;
+	line-height: 2em;
+}
+
+/* specific to non IE browsers */
+.menu ul li:hover a {
+	color:#fff; 
+	background:#36f;
+}
+
+.menu ul li:hover ul {
+	display:block; 
+	position:absolute; 
+	top:27px; 
+	left:0; 
+	width:105px;
+}
+
+.menu ul li:hover ul li a.hide {
+	
+}
+
+.menu ul li:hover ul li:hover a.hide {
+	color:#000;
+}
+
+.menu ul li:hover ul li ul {
+	display: none;
+}
+
+.menu ul li:hover ul li a {
+	display:block; 
+	background:#FFF; 
+	color:#525252;
+	padding-left:15px;
+}
+
+.menu ul li:hover ul li a:hover {
+	background:#e2e2e2; 
+	color:#000;
+}
+
+.menu ul li:hover ul li:hover ul {
+	display:block; 
+	position:absolute; 
+	left:105px; 
+	top:0;
+}
+
+.menu ul li:hover ul li:hover ul.left {
+	left: 160px;
+}
+
+/* rollovers */
+#home a {
+    background: transparent url(../i/consumer_nav_home.png) 0 0 no-repeat;
+	display: block;
+	width: 83px;
+	height: 27px;
+	text-indent: -999px;
+}
+
+#cleaningServices a {
+    background: transparent url(../i/consumer_nav_cleaningServices.png) 0 0 no-repeat;
+	display: block;
+	width: 171px;
+	height: 27px;	
+	text-indent: -999px;
+}
+
+#locations a {
+    background: transparent url(../i/consumer_nav_locations.png) 0 0 no-repeat;
+	display: block;
+	width: 119px;
+	height: 27px;	
+	text-indent: -999px;
+}
+
+#greenCleaning a {
+    background: transparent url(../i/consumer_nav_greenCleaning.png) 0 0 no-repeat;
+	display: block;
+	width: 154px;
+	height: 27px;	
+	text-indent: -999px;
+}
+
+#whyUs a {
+    background: transparent url(../i/consumer_nav_whyUs.png) 0 0 no-repeat;
+	display: block;
+	width: 94px;
+	height: 27px;	
+	text-indent: -999px;
+}
+
+#resources a {
+    background: transparent url(../i/consumer_nav_resources.png) 0 0 no-repeat;
+	display: block;
+	width: 116px;
+	height: 27px;	
+	text-indent: -999px;
+}
+
+#aboutUs a {
+    background: transparent url(../i/consumer_nav_aboutUs.png) 0 0 no-repeat;
+	display: block;
+	width: 117px;
+	height: 27px;	
+	text-indent: -999px;
+}
+	
+#home a:hover, #cleaningServices a:hover, #locations a:hover, #greenCleaning a:hover, #whyUs a:hover, #resources a:hover, #aboutUs a:hover {
+	background-position: 0 -27px;
+}
+

@@ -1,0 +1,68 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+                <center>
+                        <img src="/img/executive-cleaning-solutions/service.jpg" alt="Services" height="400" width="1200" />
+                </center>
+        </replaceContent>
+
+	<replaceContent select="#quotecenterright">
+		<br />
+		<div style="padding:1%;">
+			24875 Novi Rd. #264<br />
+			Novi, MI. 48376<br />
+			(248)767-0976<br />
+			<a href="mailto:erik@executive-cleaning-solutions.com?Subject=Executive-Cleaning-Solutions" class="nav">
+				Customer Service</a><br /><br />
+			<br /><br />
+			<img height="384" width="322" src="/img/executive-cleaning-solutions/MichiganTriCountyMap.jpg" />
+		</div>
+		<br />
+	</replaceContent>
+
+	<replaceContent select="#quotecenterleft">
+		<br />
+		<div style="padding:1%;">
+
+			If your location requires a Day Porter, Executive Cleaning Solutions will provide your 
+			facility with a full or part -time professional and dependable Porter. Our staff will 
+			be trained to your facility and have a complete understanding of all the cleaning 
+			requirements needed. Our Day Porter will give you the peace of mind that your cleaning 
+			needs are met in a timely manner. This will give you the freedom to focus on your business and cliental.
+			<br /><br />
+
+			Our Day Porters perform many invaluable duties to give your facility a professional 
+			appears and an overall clean work environment. Whether it’s cleaning restrooms, event 
+			preparation or floor maintenance, our experienced, dedicated and highly trained Day 
+			Porter staff is here to service your facility.    
+			<br /><br /><br />
+
+			Some of the services our Day Porters provided:
+			<ul>
+				<li>Emptying and relining trash containers.</li>
+				<li>Vacuuming carpeted areas</li>
+				<li>Floor maintenance </li>
+				<li>Shampooing carpets</li>
+				<li>Cleaning kitchen area, appliances and food service preparation areas</li>
+				<li>Cleaning elevators </li>
+				<li>Cleaning common areas, break rooms, dusting and wiping down furniture </li>
+				<li>Cleaning common and private bathrooms, refilling toilet paper, paper towels and soap </li>
+				<li>Dusting </li>
+				<li>Keep campus free from trash and refuse </li>
+				<li>Movement of office furniture</li>
+				<li>Assisting in setting-up conference areas, tables, chairs and equipment 
+					for meeting rooms and special events</li>
+				<li>All related custodial duties as required </li>
+			</ul>
+			<br /><br />
+
+			Call Executive Cleaning Solutions today to discuss a plan that would work best for your facility.
+
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

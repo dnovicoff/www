@@ -1,0 +1,74 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="style5"><div><img width="468" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" /></div>                </td>
+            </tr>
+            <tr>
+              <td class="style5"><table bgcolor="#860C17" align="center" width="455" cellspacing="2" cellpadding="2" border="0">
+                <tbody><tr>
+                  <td width="43%"><span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">
+                      Windsor II </span></td>
+                  <td class="style2"><div align="right">Ranch</div></td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><table bgcolor="#FFFFFF" align="center" width="455" cellspacing="0" cellpadding="5" border="0">
+                      <tbody><tr>
+                        <td width="47%" height="250"><div align="center"><img width="360" height="220" alt="Windsor II Elevation C" src="/img/upland-homeinc/communities/homestead/WindsorII/Main_window_f3.jpg" /></div></td>
+                      </tr>
+                      <tr>
+                        <td valign="top"><div style="padding-left:12px; padding-top:2px; padding-right:6px;padding-bottom:6px" class="style6Blue">
+						  <p class="style6Blue">3 Bedrooms<br />
+						    2 Baths<br />
+						    Full Basement<br />
+						    <span class="style6Blue">Attached 2 Car Side Entry garage with Option for 3
+						  Car Garage<br />
+						    1688 square feet </span></p>
+						  </div>
+                            <div style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style5"> This
+                              3 bedroom, 2 bath home features vaulted ceilings
+                              in the Great Room and Dining Room. Optional bay
+                              window with Door wall in the Dining Room and option
+                              bay window in the Master Bedroom. The spacious
+                              kitchen has a pass thru to the Great Room; breakfast
+                              area, and optional island. The Master Bath has
+                              a soaking tub and separate shower and large walk-in
+                              closet. All models feature a first floor laundry
+                              room and gas fireplace. The perfect home for any
+                              life style.</div>                          </td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FFFFFF" valign="top" class="style8">1st
+                          Floor </td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FFFFFF" height="250"><div align="left"><img width="350" height="424" alt="1st Floor" src="/img/upland-homeinc/communities/homestead/WindsorII/WindsorIIF.gif" /></div></td>
+                      </tr>
+                      
+                      
+                      <tr>
+                        <td valign="top"><div style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style9small">Disclaimer:
+                            Prices, plans, specifications manufacturers' brands
+                            and availability are subject to change without notice
+                            or obligation. All renderings are artist's concept.
+                            Floor plans are intended to serve as a guide, not
+                            to accurately depict the legal description of the
+                            property's boundaries, dimensions, scale of rooms
+                            and their relative locations. </div></td>
+                      </tr>
+                  </tbody></table></td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+          </tbody></table>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

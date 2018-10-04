@@ -1,0 +1,20 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+		<div class="style5">
+			<img width="650" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" />
+		</div>
+		<div class="style5 tableStyle" style="background-color:#860C17;">
+			<span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">
+				Coming Soon - Ready to Own Homes
+			</span>
+		</div>
+		<div class="style5" style="height:10px;"></div>
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

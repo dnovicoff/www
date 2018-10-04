@@ -1,0 +1,104 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+		<div class="style5" style="width:100%">
+			<img width="650" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" />
+		</div>
+		<div class="style5 tableStyle" style="background-color:#860C17;">
+			<span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">Community
+                      Information </span>
+		</div>
+		<div class="style5 tableStyle">
+                      <p>
+			Turn down Century Oaks dramatic boulevard entrance and know you have arrived at someplace special. 
+			Beyond this entrance lies an extraordinary atmosphere of elegance 
+			and beauty. Here, generous homesites embrace award-winning home designs to reflect your high standards 
+			and individuality. A rolling landscape, and winding streets balance privacy, 
+			tranquility and an unmistakable sense of community. Century Oaks unique ambiance combines 
+			innovation with an old-fashioned sense of community to create a setting thrilling to call home.
+                      </p>
+		</div>
+		<div class="style5 tableStyle">
+                      <p class="style8wideBrown">Outstanding Included Features…                      </p>
+                      <p><span class="style6BDkBrown">Neighborhood Advantages</span><br />
+                      • Acclaimed Rochester Community Schools<br />
+                      • Dramatic Boulevard Entrance<br />
+                      • Rolling Landscape with Winding Streets<br />
+                      • Minutes from Downtown Rochester</p>
+
+                      <p><span class="style6BDkBrown">Your Home's Elegant Exteriors</span><br />
+                      • Distinctive Architectural Designs<br />
+                      • Beautiful Brick Exteriors<br />
+                      • Estate Sized Cul-de-sac Homesites<br />
+                      • Dimensional Shingle with a Limited Lifetime Warrantee<br />
+                      • Roof Ridge Ventilation System<br />
+                      • DLP Siding with a Limited Lifetime Warrantee<br />
+                      • House Wrap to Reduce Air and Moisture Infiltration<br />
+                      • Sherwin-Williams Solid Stain for Exterior Trim in Your Choice of Color<br />
+                      • Aluminum Gutters and Downspouts<br />
+                      • Fiberglass Entry Doors with Weatherstrip<br />
+                      • Jeld-Wen Vinyl Windows with Low-E Glass<br />
+                      • Raised Panel Steel Sectional Garage Doors for 3 Car Garage <br />
+                      • Concrete Driveway and Sidewalks with 3' Service Walk to Front Door<br />
+                      • Two Exterior Electrical Outlets<br />
+                      • Two Exterior Hose Bibss</p>
+
+                    <p><span class="style6BDkBrown">Your Home’s Extraordinary Interiors</span><br />
+                      • Dramatic Architectural Ceiling Details - per plan<br />
+                      • 4” Crown Molding Included on Formal Dining and Master Suite<br />
+                      • 4-1/2” Base Trim Detail Throughout<br />
+                      • Shaw Carpeting Throughout with 6 lb Pad<br />
+                      • Decora Electrical Switches Throughout <br />
+                      • Recessed Lighting Package - per plan <br />
+                      • Generous Lighting Allomance<br />
+                      • Overhead Lights Included in All Bedrooms<br />
+                      • Smooth Masonite Doors with Raised Two-Panel Arch top Feature<br />
+                      • Laundry Room with Ceramic Flooring - First or Second Floor per plan<br />
+                      • Better Home Products, Pacific Heights, Door Hardware in Satin Nickel<br />
+                      • Wrought Iron Spindles Throughout<br />
+                      • Sherwin-Williams Paint in Your Choice of Color<br />
+                      • 3/4"x2-1/4" Oak Stain Grade Hardwood Flooring in Foyer, Kitchen, <br />
+                          Nook and Select Areas - per plan<br />
+                      • Lennox Gas Fireplace with Ceramic Surround</p>
+
+                    <p><span class="style6BDkBrown">Lavishly Appointed Kitchens</span><br />
+                      • Granite Tops with Under-Mount Double Stainless Steel Sink<br />
+                      • Oversized Granite Kitchen Island - per plan<br />
+                      • Quality Maple Custom Cabinetry with Gourmet Kitchen Layout <br />
+                          and Crown Detail in Your Choice of Stain Color<br />
+                      • 2-1/4" Stain Grade Oak Hardwood Flooring in Your Choice of Stain Colors<br />
+                      • GE Appliance Package<br />
+                      • Range Hood Vented to Exterior<br />
+                      • Insinkerator Badger 1 Disposal<br />
+                      • Delta Windemere Kitchen Sink Faucet in Chrome with Pullout Sprayer<br />
+                      • Sun-drenched Kitchen Breakfast Nook</p>
+
+                    <p><span class="style6BDkBrown">Luxurious Bath Retreats</span><br />
+                      • Jacuzzi Brand Soaking Tub in Master Bath on Ceramic Tub Deck<br />
+                      • Delta Windemere Chrome Two Handle Bath Faucets<br />
+                      • Granite Top Bath Vanities with Under-Mount Sink - per plan<br />
+                      • Full Width 36" Vanity Mirrors<br />
+                      • Ceramic Tile Flooring in All Full Baths<br />
+                      • Lavishly Designed Full Ceramic Master Bath Shower Area<br />
+                      • Custom Designed Hanging and Shelving System in Master Suite Walk-in Closets</p>
+
+                    <p><span class="style6BDkBrown">First Class Structurals &amp; Mechanical</span><br />
+                      • 8'-10" Basement Increased Wall Height<br />
+                      • Basement Waterproofing with Dimple Air Gap Membrane System <br />
+                          Including a 30 Year Limited Warranty<br />
+                      • American Brand 50 Gallon Power Vent Water Heater<br />
+                      • AdvanTech Subflooring with Transferable 50 Year Limited Warranty<br />
+                      • Carrier 95% High Efficiency Forced Air Furance with 5 Year Limited Warranty<br /> 
+                      • 200 Amp Electrical Service<br />
+                      • Multiple Hard-wired Smoke Detectors with Battery Back-up<br />
+                      • 6 preps fro phone or cable<br />
+                      • Security system prep</p>
+		</div>
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

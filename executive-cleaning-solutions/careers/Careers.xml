@@ -1,0 +1,36 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+		<center>
+			<img src="/img/executive-cleaning-solutions/career.jpg" alt="Career" height="400" width="1200" />
+		</center>
+	</replaceContent>
+
+	<replaceContent select="#quotecenterright">
+		<br />
+		<div style="padding:1%;">
+
+ 
+			We are always looking for good people that are dependable and enjoy cleaning. 
+			If this is you and you want to join our professional team. We want to talk to you!  
+			<br /><br />
+			<ul>
+				<li>Very competitive wages</li>
+				<li>Business hours vary per job(s)</li>
+				<li>Paid training</li>
+				<li>Opportunity for advancement</li>
+				<li>Management that truly cares about their team</li>
+				<li>Professional, positive and friendly work environment</li>
+			</ul>
+			<br /><br />
+			For an opportunity to join our team, send your resume to <a href="mailto:erik@executive-cleaning-solutions.com">
+			Careers</a>
+
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

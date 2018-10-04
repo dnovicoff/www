@@ -1,0 +1,97 @@
+
+
+/* ================================================================ 
+This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/cssMenus/dd_valid.html
+Copyright (c) 2005-2007 Stu Nicholls. All rights reserved.
+This stylesheet and the assocaited (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+/* common styling */
+.cssMenu {
+	width:854px; 
+	height:27px; 
+	position:relative; 
+	font-size: .9em;
+	z-index:100;
+	float: left;
+	margin: 35px 0 -9px 30px;
+ }
+
+.cssMenu ul li a, .cssMenu ul li a:visited {
+	display:block; 
+	text-decoration:none; 
+	overflow:hidden;
+}
+
+.cssMenu ul {
+	padding:0; 
+	margin:0; 
+	list-style: none;
+}
+
+.cssMenu ul li {
+	float:left; 
+	position:relative;
+}
+
+.cssMenu ul li ul {
+	display: none;
+}
+
+.cssMenu ul li ul li {
+	width: 160px;
+	line-height: 2em;
+}
+
+/* specific to non IE browsers */
+.cssMenu ul li:hover a {
+	color:#fff; 
+	background:#36f;
+}
+
+.cssMenu ul li:hover ul {
+	display:block; 
+	position:absolute; 
+	top:27px; 
+	left:0; 
+	width:105px;
+}
+
+.cssMenu ul li:hover ul li a.hide {
+	
+}
+
+.cssMenu ul li:hover ul li:hover a.hide {
+	color:#000;
+}
+
+.cssMenu ul li:hover ul li ul {
+	display: none;
+}
+
+.cssMenu ul li:hover ul li a {
+	display:block; 
+	background:#FFF; 
+	color:#525252;
+	padding-left:15px;
+}
+
+.cssMenu ul li:hover ul li a:hover {
+	background:#e2e2e2; 
+	color:#000;
+}
+
+.cssMenu ul li:hover ul li:hover ul {
+	display:block; 
+	position:absolute; 
+	left:105px; 
+	top:0;
+}
+
+.cssMenu ul li:hover ul li:hover ul.left {
+	left: 160px;
+}
+

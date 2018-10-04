@@ -1,0 +1,98 @@
+"""
+File: DataConnect.py
+Purpose: Used to handle all database connections.
+Copywrite: Sendwell 2013
+"""
+import MySQLdb as mdb
+
+class DatabaseConnection(object):
+    
+ 	def writeError(self,message):
+ 		if self.log is None:
+ 			print "%s" % message
+ 		else:
+			self.log.writeLog(message)
+    
+ 	def selectQuery(self,query):
+ 		rows = None
+ 		try:
+ 			if self.curs:
+ 				self.curs.execute(query)
+ 				rows = self.curs.fetchall()
+ 		except psycopg2.Error as ge:
+ 			rows = "ExecQuery General error {0}".format(ge.args[0])[:-2]
+ 		except psycopg2.InterfaceError as e:
+ 			rows = "Interface error {0}".format(e.args[0])
+ 		except psycopg2.DatabaseError as e:
+ 			rows = "Database error {0}".format(e.args[0])
+ 		except psycopg2.DataError as e:
+ 			rows = "Data error {0}".format(e.args[0])
+ 		except psycopg2.ProgrammingError as e:
+ 			rows = "Programming error {0}".format(e.args[0])
+ 		except psycopg2.InternalError as e:
+ 			rows = "Internal error {0}".format(e.args[0])
+ 		finally:
+			print "error\n"
+ 		return rows
+    
+ 	def updateQuery(self,query):
+		rows = None
+ 		try:
+ 			if self.curs:
+ 				self.curs.execute(query)
+ 				rows = self.curs.rowcount
+ 		except psycopg2.Error as ge:
+ 			rows = "UpdateQuery General error {0}".format(ge.args[0])[:-2]
+ 		except psycopg2.InterfaceError as e:
+ 			rows = "Interface error {0}".format(e.args[0])
+ 		except psycopg2.DatabaseError as e:
+ 			rows = "Database error {0}".format(e.args[0])
+ 		except psycopg2.DataError as e:
+ 			rows = "Data error {0}".format(e.args[0])
+ 		except psycopg2.ProgrammingError as e:
+ 			rows = "Programming error {0}".format(e.args[0])
+ 		except psycopg2.InternalError as e:
+ 			rows = "Internal error {0}".format(e.args[0])
+ 		finally:
+ 			if message.__len__() > 1:
+ 				MXLockClasses.writeLog(message,self.log)
+ 		return rows 
+    
+ 	def insertQuery(self,query):
+		rows = None
+ 		try:
+ 			if self.curs:
+ 				self.curs.execute(query)
+ 				rows = self.curs.rowcount
+ 		except psycopg2.Error as ge:
+ 			rows = "InseretQuery General error({0}) ({1})".format(ge.args[0],query)
+ 		except psycopg2.InterfaceError as e:
+ 			rows = "Interface error({0})".format(e.args[0])
+ 		except psycopg2.DatabaseError as e:
+ 			rows = "Database error({0})".format(e.args[0])
+ 		except psycopg2.DataError as e:
+ 			rows = "Data error({0})".format(e.args[0])
+ 		except psycopg2.ProgrammingError as e:
+ 			rows = "Programming error({0})".format(e.args[0])
+ 		except psycopg2.InternalError as e:
+ 			rows = "Internal error({0})".format(e.args[0])
+ 		finally:
+ 			if message.__len__() > 1:
+ 				MXLockClasses.writeLog(message,self.log)
+ 		return rows 
+    
+ 	def connect(self):
+ 		self.conn = mdb.connect(self.server,self.username,self.password,self.database)
+ 		self.curs = self.conn.cursor() 
+
+	def disconnect(self):
+		if self.conn:
+			self.conn.close()
+    
+ 	def __init__(self,database,server,user,password):
+ 		self.database = database 
+		self.server = server
+		self.username = user
+		self.password = password
+        
+

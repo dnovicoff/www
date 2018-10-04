@@ -1,0 +1,54 @@
+
+
+<taconite>
+	<replaceContent select=".overlayPageTitle">
+		<span><b>Mathematics Subject classification</b></span>
+	</replaceContent>
+
+	<replaceContent select=".overlaytest">
+		<span class="row">
+			<span class="col" style="width:21%">
+				<a href="http://www.ams.org/mathscinet/msc/msc2010.html?t=&amp;s=fuzzy&amp;ls=Ss&amp;btn=Current" target="_blank">
+				<img alt="MSC Screen Shot" style="border-style:none;" src="/img/home/clients/MSC/MSCSearchThumb.png" height="300" width="200" />
+				</a>
+			</span>
+			<span class="col" style="width:21%">
+				<a href="http://www.ams.org/mathscinet/msc/msc2010.html?t=&amp;s=fuzzy&amp;ls=Cs&amp;btn=Since+1999" target="_blank">
+				<img alt="MSC Search" style="border-style:none;" src="/img/home/clients/MSC/MSCSearchSince1999Thumb.png" height="300" width="200" />
+				</a>
+			</span>
+			<span class="col" style="width:21%">
+				<a href="http://www.ams.org/mathscinet/msc/msc2010.html?t=20-XX&amp;s=fuzzy&amp;btn=Search&amp;ls=Cs" target="_blank">
+				<img alt="MSC Selector" style="border-style:none;" src="/img/home/clients/MSC/MSCSelectorCurrentThumb.png" height="300" width="200" />
+				</a>
+			</span>
+			<span class="col" style="width:21%">
+				<a href="http://www.ams.org/mathscinet/msc/msc2010.html?t=20-XX&amp;s=&amp;ls=Ct&amp;btn=Since+1999" target="_blank">
+				<img alt="MSC Selector since 1999" style="border-style:none;" src="/img/home/clients/MSC/MSCSelectorSince1999Thumb.png" height="300" width="200" />
+				</a>
+			</span>
+		</span>
+
+		<span class="row">
+			<span class="col" style="width:21%">
+				This page is a query run against the MSC databasse using an autocomplete search text-box.
+				In this case, the term, fuzzy.
+			</span>
+			<span class="col" style="width:21%">
+				This page is a query run against the MSC databasse using an autocomplete search text-box.
+				In this case, the term, fuzzy, and all records since 1999.
+			</span>
+			<span class="col" style="width:21%">
+				This page is a query run against the MSC database using first level selection process.
+				In this case 20, Group theory and Generalizations.
+			</span>
+			<span class="col" style="width:21%">
+				This page is a query run against the MSC database using first level selection process.
+				In this case 20, Group theory and Generalizations. Including records since 1999.
+			</span>
+		</span>
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

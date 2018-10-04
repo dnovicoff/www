@@ -1,0 +1,41 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+                <center>
+                        <img src="/img/executive-cleaning-solutions/why-us.jpg" height="400" width="1200" alt="Why us" />
+                </center>
+        </replaceContent>
+
+	<replaceContent select="#quotecenterright">
+		<br />
+		<div style="padding:1%;">
+
+ 
+			<b><h1><font color="blue">Our Misson</font></h1></b>
+			It is our intent to maintain the highest quality and standard of service. Building a strong 
+			and trusting relationship with our clients is very important to us. We believe in the old 
+			fashion way of business, client first. We strive to maintain well trained, honest, trustworthy, 
+			reliable and very personable staff. Our focus and drive is customer satisfaction, this is our 
+			motivation. We believe in delivering a service that will satisfy all our clients cleaning needs.
+			<br /><br />
+			<b>We promise you this</b>
+			<ul>
+				<li>Superior service</li>
+				<li>It's about you and your needs</li>
+				<li>We have a strict hiring practice and employee training which shows in the integrity of our work</li>
+				<li>We are not looking to break the bank. Our rates are very competitive</li>
+				<li>In the event there is a client concern, we take it serious and implement a 
+					corrective action to ensure the issue does not reoccur</li>
+				<li>We appreciate our opportunities. Because of this, we go over and beyond to make sure 
+					our clients are 100% satisfied with Executive Cleaning Solutions</li>
+			</ul>
+
+
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

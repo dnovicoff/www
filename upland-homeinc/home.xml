@@ -1,0 +1,46 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+	<div class="outerShell" style="display:block;zoom:1;" >
+	  <div id="content1">
+	    <div style="display:block;" >
+	      <div style="display:block;text-align:left;" ><p>
+	        <span style="font-size: 11px;"></span><b>
+		<font style="font-size: 18px;"><font color="#960B53">EXPERIENCE THE UPLAND DIFFERENCE<br /></font></font></b><br />
+		Upland Homes Inc. is a Michigan based home builder that has been creating extraordinary homes for more than two decades.
+		Our skill and integrity has earned us a reputation as one of the area's pre-eminent builders. We specialize in great locations,
+		turn-key construction and . . . satisfied homeowners!</p>
+		<p><strong>Custom Homes and Residential Communities</strong><br />
+		If you can dream it, we can build it. Many of our communities have received national recognition. We maintain control throughout
+		the design and construction process to ensure that your residence is built to the highest quality standards - with cutting edge
+		technology. Our custom homes are always exceptionally beautiful, well appointed and extremely comfortable. We have been creating
+		happy homeowners for over 20 years.</p>
+		<p><strong>Your Satisfaction</strong><br />
+		We manage all stages of each job. From the pre-design phase of a project through construction and delivery. We have formed long
+		standing alliances with architects and experienced trades people and are proud members of both Michigan and National Builder's Associations.</p>
+		<p><strong>Upland is known for:</strong></p>
+		<ul style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 20px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; list-style-type: circle; list-style-position: initial; list-style-image: initial;">
+    			<li>Thoughtful design coordination.</li>
+    			<li>On schedule completion.
+    			</li>
+    			<li>Return on investment (Based on market trends).
+    			</li>
+    			<li>Final product exceeding expectations.
+    			</li>
+    			<li>Honesty, integrity and great value.</li>
+		</ul>
+		<div style="clear: both;"><br />
+	        </div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

@@ -1,0 +1,102 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+		<div class="style5" style="width:100%">
+			<img width="650" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" />
+		</div>
+		<div class="style5 tableStyle" style="background-color:#860C17;">
+			<span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">Community
+ 			Information </span>
+		</div>
+		<div class="style5 tableStyle">
+                      <p>
+			Turn down Kirklands' dramatic boulevard entrance and know you have arrived at someplace special. 
+			Beyond its brick and limestone walls and shimmering ponds lies an extraordinary atmosphere of elegance 
+			and beauty. Here, generous homesites embrace award-winning home designs to reflect your high standards 
+			and individuality.A rolling landscape, and winding streets balance privacy, 
+			tranquility and an unmistakable sense of community. Kirklands' unique ambiance combines 
+			innovation with an old-fashioned sense of community to create a setting most would be thrilled to call home.
+                      </p>
+		</div>
+		<div class="style5 tableStyle">
+                      <p class="style8wideBrown">Outstanding Included Features…                      </p>
+                      <p><span class="style6BDkBrown">Neighborhood Advantages</span><br />
+                      • Acclaimed Rochester Community Schools<br />
+                      • Dramatic Boulevard Entrance<br />
+                      • Shimmering Ponds<br />
+                      • Rolling Landscape with Winding Streets<br />
+                      • Minutes from Downtown Rochester</p>
+
+                      <p><span class="style6BDkBrown">Your Home's Elegant Exteriors</span><br />
+                      • Distinctive Architectural Designs<br />
+                      • IKO Cambridge Dimensional Shingle<br />
+                      • Roof Ridge Ventilation System<br />
+                      • HardiPlank Fiber-Cement Siding with a Limited LifetimeWarranty<br />
+                      • House Wrap to Reduce Air and Moisture Infiltration<br />
+                      • Sherwin-Williams Solid Stain for Exterior Trim in Your Choice of Color<br />
+                      • Aluminum Gutters and Downspouts<br />
+                      • Therma-Tru Fiberglass Entry Doors with Weatherstrip<br />
+                      • Jeld-Wen Vinyl Windows<br />
+                      • Raised Panel Steel Sectional Garage Door <br />
+                      • Concrete Driveway and Sidewalks<br />
+                      • Two Exterior Electrical Outlets<br />
+                      • Two Exterior Hose Bibss<br />
+                      • Decorative Exterior Lighting</p>
+
+                    <p><span class="style6BDkBrown">Your Home’s Extraordinary Interiors</span><br />
+                      • Dramatic Architectural Ceiling Details - per plan<br />
+                      • 4” Crown Molding Included on First Floor<br />
+                      • 4-1/2” Base Trim Detail Throughout<br />
+                      • Decora Electrical Switches Throughout <br />
+                      • Recessed Lighting Package - per plan <br />
+                      • Decorative Light Fixtures with Your Choice of Satin Nickel or Oil Rubbed Bronze <br />
+                      • Overhead Lights Included in All Bedrooms<br />
+                      • Smooth Masonite Doors with Several Raised Panel Styles to Choose<br />
+                      • Better Home Products, Pacific Heights, Door Hardware in Your Choice of 	Satin Nickel or Oil Rubbed Bronze <br />
+                      • Wrought Iron Spindles Throughout<br />
+                      • Sherwin-Williams Paint in Your Choice of Color<br />
+                      • Ceramic or Hardwood flooring in Foyer and Select Areas - per plan<br />
+                      • Lennox Gas Fireplace with Ceramic Surround</p>
+
+                    <p><span class="style6BDkBrown">Lavishly Appointed Kitchens</span><br />
+                      • Granite tops with under-mount double stainless steel sink<br />
+                      • Oversized Granite kitchen island - per plan<br />
+                      • KraftMaid Maple custom cabinetry with dovetail drawers including full extension, self-closing drawer system<br />
+                      • Your choice of Glasbern flooring in your choice of stain colors<br />
+                      • 3-1/4" Oak hardwood flooring in your choice of stain colors<br />
+                      • Prep fro gas and electric appliances<br />
+                      • Hood vent prep to exterior<br />
+                      • Insinkerator brand Badger 1 disposal<br />
+                      • Delta Windemere kitchen sink faucet in Chrome or oil rubbed Bronze finish<br />
+                      • Sun-drenched kitchen breakfast nook</p>
+
+                    <p><span class="style6BDkBrown">Luxurious Bath Retreats</span><br />
+                      • Jacuzzi brand soaking tub in Master bath<br />
+                      • Choice of white or biscuit plumbing fixtures<br />
+                      • Delta windemere two handle bath faucets<br />
+                      • Granite top bath vanities with under-mount sink - per plan<br />
+                      • Full width vanity mirrors<br />
+                      • Ceramic tile in full baths<br />
+                      • Lavishly designed full ceramic master bath shower area<br />
+                      • KraftMaid maple custom cabinetry with dovetail drawers including full extensions, self-closing drawer system<br />
+                      • Custom designed hanging and shelving system in master suite walk-in closets</p>
+
+                    <p><span class="style6BDkBrown">First Class Structurals &amp; Mechanical</span><br />
+                      • 8'-10" Basement increased wall height<br />
+                      • Basement waterproofing with dimple air gap membrane system including a 30 year limited warranty<br />
+                      • American brand 50 gallon power vent water heater<br />
+                      • AdvanTech subflooring with transferable 50 year limited warranty<br />
+                      • Lennox 93% high efficiency forced air furances with 5 year limited warranty<br /> 
+                      • 200 amp electrical service<br />
+                      • Multiple hard-wired smoke detectors with battery back-up<br />
+                      • 6 preps fro phone or cable<br />
+                      • Security system prep</p>
+		</div>
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

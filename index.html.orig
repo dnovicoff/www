@@ -1,0 +1,11 @@
+
+
+<html>
+<head>
+	<title>test</title>
+</head>
+<body>
+<form name="form1">
+	<input type="text" name="test" />
+	<input type="submit" name="testsubmit" value="teststuff" />
+</form>

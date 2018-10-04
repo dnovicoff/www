@@ -1,0 +1,50 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+                <center>
+                        <img src="/img/executive-cleaning-solutions/service.jpg" alt="Services" height="400" width="1200" />
+                </center>
+        </replaceContent>
+
+	<replaceContent select="#quotecenterright">
+		<br />
+		<div style="padding:1%;">
+			24875 Novi Rd. #264<br />
+			Novi, MI. 48376<br />
+			(248)767-0976<br />
+			<a href="mailto:erik@executive-cleaning-solutions.com?Subject=Executive-Cleaning-Solutions" class="nav">
+				Customer Service</a><br /><br />
+			<br /><br />
+			<img height="384" width="322" src="/img/executive-cleaning-solutions/MichiganTriCountyMap.jpg" />
+		</div>
+		<br />
+	</replaceContent>
+
+	<replaceContent select="#quotecenterleft">
+		<br />
+		<div style="padding:1%;">
+
+			Don't you agree? First impressions are long lasting.  
+			What impression are your windows giving your workers and clients?  
+			Many would say that a customer is making an opinion before they enter the doors of a business.  
+			Executive Cleaning Solutions will create window cleaning program to ensure your 
+			facilities windows are spotless inside and out.<br /><br />
+
+			<b>
+			We use the latest in window technology for a perfect view.
+			</b>
+
+			<ul>
+				<li>Commerical</li>
+				<li>High Rise</li>
+				<li>Storefront</li>
+			</ul>
+
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

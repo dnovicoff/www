@@ -1,0 +1,93 @@
+
+
+<taconite>
+	<replaceContent select="#quotecenterright">
+		<br />
+		<div style="width:97%" class="blueBorder">
+			Fields marked with a red (<font color="red">*</font>) are required<br />
+			<form action="notsureyet.perl" method="get" OnSubmit="return validateForm(this);">
+				<table><tr>
+					<td>First Name:</td>
+				</tr><tr>
+					<td>
+					<div id="divcontactFirstName" class="contactError"></div>
+					<input type="text" name="contactFirstName" class="contact" /><font color="red">*</font>
+					</td>
+				</tr><tr>
+					<td>Last Name:</td>
+				</tr><tr>
+					<td> 
+					<div id="divcontactLastName" class="contactError"></div>
+					<input type="text" name="contactLastName" class="contact" /><font color="red">*</font>
+					</td>
+				</tr><tr>
+					<td>Company Name:</td>
+				</tr><tr>
+					<td> 
+					<div id="divcontactCompanyName" class="contactError"></div>
+					<input type="text" name="contactCompanyName" class="contact" /><font color="red">*</font>
+					</td>
+				</tr><tr>
+					<td>Company Phone Number:</td>
+				</tr><tr>
+					<td> 
+					<div id="divcontactCompanyPhone" class="contactError"></div>
+					<input type="text" name="contactCompanyPhone" class="contact" /><font color="red">*</font>
+					</td>
+				</tr><tr>
+					<td>Altername Phone Number:</td>
+				</tr><tr>
+					<td> <input type="text" name="contactACPN" /></td>
+				</tr><tr>
+					<td>Email Address:</td>
+				</tr><tr>
+					<td> 
+					<div id="divcontactEmail" class="contactError"></div>
+					<input type="text" name="contactEmail" class="contact" /><font color="red">*</font>
+					</td>
+				</tr><tr>
+					<td>Company Address:</td>
+				</tr><tr>
+					<td> <input type="text" name="contactCA" /></td>
+				</tr><tr>
+					<td>Approx sq. of Building:</td>
+				</tr><tr>
+					<td> <input type="text" name="contactASOB" /></td>
+				</tr><tr>
+					<td>Number of Floors:</td>
+				</tr><tr>
+					<td> <input type="text" name="contactNOF" /></td>
+				</tr><tr>
+					<td>Type of Service Provided:</td>
+				</tr><tr><td>
+					<div id="divcontactSelectService" class="contactError"></div>
+				<select name="contactSelectService" class="contact">
+					<option value="contactChoose">Choose one</option>
+					<option value="contactOfficeCleaning">Office Cleaning</option>
+					<option value="contactRestaurant">Restaurant</option>
+					<option value="contactSchool">School Cleanup</option>
+					<option value="contactOneTime">One Time Clean-up</option>
+					<option value="windowCleaning">Window Cleaning</option>
+					<option value="floorMaintenance">Floor Maintenance</option>
+				</select><font color="red">*</font>
+				</td></tr><tr>
+					<td>Comments:</td>
+				</tr><tr>
+					<td> <textarea name="contactComments" rows="4" cols="30">Please add any additional information
+					</textarea></td>
+				</tr><tr>
+				<td align="left"><input type="submit" value="submit" /></td><td></td>
+				</tr></table>
+			</form>
+			<br />
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+		$('.contact').focus(function (data)  {
+			var name = $(this).attr("name");
+			$('#div'+name).html("");
+		});
+	]]></eval>
+</taconite>

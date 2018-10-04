@@ -1,0 +1,25 @@
+
+
+<taconite>
+	<replaceContent select="#quotescenter">
+		<div class="row">
+			<div class="col">
+				: Mobile
+			</div>
+			<div class="col">
+				<a href="mailto:czimberg@greatlakescutlery.com">Mobile</a>		
+			</div>
+		</div>
+		<div class="row">
+			<div class="col">
+				: Internal
+			</div>
+			<div class="col">
+				<a href="mailto:dnovicoff@greatlakescutlery.com">Internal</a>
+			</div>
+		</div>
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

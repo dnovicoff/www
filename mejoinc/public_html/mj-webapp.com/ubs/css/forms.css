@@ -1,0 +1,30 @@
+/*
+ * $HeadURL$
+ * $Id$
+ * $Author$
+ * $Revision$
+ * $Date$
+ */
+
+legend		{ background:#fcfdfd; border-bottom:1px solid #a6c9e2; color:#222222; font-weight:600; font-size:120%; letter-spacing:2px; margin:0 auto; padding:8px 12px; width:1060px; }
+label		{ color:#000; font-weight:500; margin-left:20px; text-align:left; width:200px; }
+label.error	{ color:red; clear:left; display:block; float:left; font-style:italic; font-size:80%; margin-left:220px; width:400px;}
+input.error	{ border:1px thin red; }
+.form		{ margin:0 auto; width:1084px; }
+.form-row	{ clear:both; display:inline; float:left; padding:8px; margin:6px 0; width:1068px; }
+.form-row label,.form-row input,.form-row select,.form-row option,
+.form-row textarea	{ float:left; font-size:110%; padding:4px; }
+.tooltip	{ color:#FC0; font-size:80%; margin-left:10px; }
+.required	{ color:red; font-weight:500; }
+#resetall { font-size:110%; padding:4px;}
+
+#bugForm {
+		background:#fff;
+		display:inline-block;
+		padding:2px 2px;
+}
+#bugForm label		{ font-weight:bold; float:left; width:40%; }
+#bugForm input,
+#bugForm textarea	{ float:left; width:40%;}
+#bugForm a			{ float:right; }
+#bugForm p			{ float:left; font-size:90%; font-style:italic; margin-top:4px; width:100%; }

@@ -1,0 +1,65 @@
+<?php header('Content-type: text/xml'); ?> 
+
+<taconite>
+	<replaceContent select="#quotescenter">
+		<br />
+		<div class="raisedBox">
+		<div style="padding:1%">
+		<h3>Services</h3>
+
+		<div class="row" style="padding-bottom:2%">
+			<b>Database modeling and management</b><br />
+			Collecting information about your customer base, or membership, is a vital tool. Expectially for targeting forward
+			movement within your organization. We can build the tools necessary for you to succeed. The real benefits come over
+			time being able to uncover trends that previously were undetected. the real leverage in database management is in the 
+			questions you ask.
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<b>Mobile Optimization</b><br />
+			Sure your web site looks good on the desktop. However, whenever I direct a client to my site from their phone
+			it becomes a haze of expanding and scrolling, ultimately clicking on unintended links and such. We'll take your site
+			an maximize it's visibility for you when your with a client. This un-teathers you from your desk/lap top and
+			leaves you to meet your customers where they are.
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<b>E-Commerse</b><br />
+			If you have something to sell. We can put a shopping cart right on your site allowing you to move your product or 
+			service in real time.
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<b>Social Media Integration (targeted brand placement)</b><br />
+			Social media is definitely changing the way we live and interact. More and more advertising is happening, not so much
+			in "ads". Advertising is happening the old fashioned way again. Word of mouth. Social media helps in that endeavour in 
+			that Brands are becoming more reconisable, and trusted based on the amount of "friends" that like that brand as well.
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<b>Web Analyitics</b><br />
+			Now that your new website is up and running. Who is viewing your site? What pages are being viewed? Where are these people located?
+			When are these pages being viewed? How long to they stay on each page and or your site? Why do they come to your site. 
+			The point being that the more information you have about your customer base, the better you can reach them. The more
+			targeted your advertising becomes. 
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<b>Web / server system maintenance</b><br />
+			Wheather it be remote systems on a shared server. Or a fully dedicated system internally. We will help you maintain existing applications,
+			help you in adding new applications. And maintain all server software on your system. We have extensive experience in both Windows 
+			environments as well as Linux, and Unix's. 
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<b>Web site development</b><br />
+			we will take your idea and turn it into reality. Our focus is as always intuitive usability, coupled with style and excellence. You 
+			can take part in as little or as much of the maintenance process as you like. 
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<b>Code debugging / re-engineering</b><br />
+			We have extensive experience in taking a brittle existing codebase and finding / fixing bugs. We can take your existing codebase and redesign
+			with re-usability in mind. this saves on development, maintenance, and future development costs putting you in control.
+		</div>
+		</div>
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

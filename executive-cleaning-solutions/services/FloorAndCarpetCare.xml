@@ -1,0 +1,56 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+                <center>
+                        <img src="/img/executive-cleaning-solutions/service.jpg" alt="Services" height="400" width="1200" />
+                </center>
+        </replaceContent>
+
+	<replaceContent select="#quotecenterright">
+		<br />
+		<div style="padding:1%;">
+			24875 Novi Rd. #264<br />
+			Novi, MI. 48376<br />
+			(248)767-0976<br />
+			<a href="mailto:erik@executive-cleaning-solutions.com?Subject=Executive-Cleaning-Solutions" class="nav">
+				Customer Service</a><br /><br />
+			<br /><br />
+			<img height="384" width="322" src="/img/executive-cleaning-solutions/MichiganTriCountyMap.jpg" />
+		</div>
+		<br />
+	</replaceContent>
+
+	<replaceContent select="#quotecenterleft">
+		<br />
+		<div style="padding:1%;">
+
+			Overall cleanliness of your facility is extremely important. This also includes 
+			the appearance of your floors and carpets. Constant foot traffic, spills and ageing 
+			will eventually have a negative impact on the appearance of your facility. 
+			Executive Cleaning Solutions will evaluate your flooring and carpet needs and 
+			recommend a program that will work best for your facility. We want to be part of 
+			your company’s professional appearance. Whether it’s a one-time carpet clean or an 
+			annual floor maintenance plan, Executive Cleaning Solutions is your carpet and flooring specialist. 
+			<br /><br />
+
+			We offer the following services.<br />
+			<ul>
+				<li>New flooring </li>
+				<li>New carpet</li>
+				<li>Carpet cleaning</li>
+				<li>Stripping and Waxing</li>
+				<li>Floor Cleaning Programs</li>
+				<li>Scrub and Recoat Services</li>
+				<li>Commercial Floor Cleaning</li>
+				<li>Floor Maintenance Programs</li>
+				<li>Floor Buffing</li>
+			</ul>
+
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

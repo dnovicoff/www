@@ -1,0 +1,461 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201303 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2548                
+POS_VISITOR 9656                
+POS_DAY 12459               
+POS_DOMAIN 3288                
+POS_LOGIN 3629                
+POS_ROBOT 3784                
+POS_WORMS 4719                
+POS_EMAILSENDER 4850                
+POS_EMAILRECEIVER 4993                
+POS_SESSION 12662               
+POS_SIDER 12829               
+POS_FILETYPES 5128                
+POS_OS 5323                
+POS_BROWSER 5445                
+POS_SCREENSIZE 5747                
+POS_UNKNOWNREFERER 5821                
+POS_UNKNOWNREFERERBROWSER 5984                
+POS_ORIGIN 6142                
+POS_SEREFERRALS 6278                
+POS_PAGEREFS 6433                
+POS_SEARCHWORDS 6731                
+POS_KEYWORDS 6903                
+POS_MISC 2212                
+POS_ERRORS 6984                
+POS_CLUSTER 3485                
+POS_SIDER_404 7124                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130306031304 1017 225549 37995810549
+FirstTime 20130301000430
+LastTime 20130306031304
+LastUpdate 20130306031929 1017 750 267 0 0
+TotalVisits 55                  
+TotalUnique 47                  
+MonthHostsKnown 37                  
+MonthHostsUnknown 15                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 13 13 109391 56 71 280194
+1 0 0 0 40 46 204656
+2 1 1 24940 15 15 35529
+3 1 1 19134 33 36 218109
+4 2 3 98091 37 40 173260
+5 57 57 1239981 84 85 1260554
+6 1 1 24940 27 29 108932
+7 0 0 0 19 20 54783
+8 1 1 19156 41 43 178591
+9 7 65 514223 36 44 157997
+10 8 8 98119 43 43 160575
+11 7 120 969453 33 44 93209
+12 4 5 122437 38 39 178499
+13 1 1 19156 14 18 61016
+14 4 29 359530 36 95 437682
+15 15 137 830515 23 33 113468
+16 15 15 66555 61 61 450482
+17 0 0 0 27 33 123379
+18 7 57 537021 24 28 86663
+19 8 124 891953 90 100 499051
+20 4 5 108832 33 34 103828
+21 0 0 0 20 36 250479
+22 0 0 0 22 55 231578
+23 0 0 0 21 22 46099
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 8
+pl 57 57 1239981
+ip 39 100 1059551
+net 33 334 2570474
+com 18 129 1022076
+it 5 5 23052
+iad1 2 2 38268
+sjdc 1 1 19134
+de 1 15 80891
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 22
+wordpress 131 27510 20130306024509 0
+bot[+:,\.\;\/\\-] 79 364423 20130306005842 29
+msnbot 67 311938 20130305094759 8
+bspider 60 322265 20130306000911 4
+googlebot 59 279538 20130306001017 6
+crawl 56 1142948 20130304064513 2
+slurp 48 214966 20130305143936 0
+[+:,\.\;\/\\-]bot 48 480206 20130306005335 24
+robot 48 253205 20130305064958 3
+yandex 41 151808 20130305185215 11
+commons\-httpclient 8 95004 20130305103126 0
+exabot 5 15308 20130305000708 2
+spider 19 94145 20130305221950 0
+blogsearch 6 26604 20130305204515 0
+findlinks 2 19575 20130304094325 1
+unknown 3 1244 20130303171900 3
+surveybot 2 5551 20130304154059 1
+turnitinbot 30 177857 20130301104246 1
+mj12bot 25 373341 20130304232034 4
+msnbot\-media 8 73476 20130304191002 4
+sogou 19 41130 20130306024508 12
+baiduspider 26 103788 20130306030309 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 34 182218 0 0
+css 61 161159 0 0
+png 166 878815 0 0
+html 117 2042684 0 0
+jpg 75 1783284 0 0
+js 80 604492 0 0
+gif 105 86831 0 0
+otf 5 313944 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+macosx 54
+winlong 16
+winxp 80
+win2000 1
+Unknown 3
+linux 60
+winvista 15
+win2008 414
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 20
+msie6.0 8
+firefox15.0 4
+chrome 71
+opera 5
+firefox4.0 2
+curl 1
+firefox7.0.1 58
+msie8.0 17
+firefox6.0.2 1
+firefox14.0.1 12
+msie7.0 1
+firefox16.0 2
+firefox6.0 1
+msie9.0 270
+firefox19.0 52
+firefox8.0.1 10
+Unknown 3
+firefox11.0 2
+safari 60
+firefox3.5.7 63
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Zend_Http_Client 20130302125524
+Google-Site-Verification/1.0 20130305101056
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Zend_Http_Client 20130302125524
+Google-Site-Verification/1.0 20130305101056
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 95 101
+From1 0 0
+From2 2 5
+From3 7 7
+From4 52 530
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 4
+http://www.serchen.com/profile/promo.aspx 4 4
+http://angleadvisors.com 1 1
+http://www.finddotcom.com 1 1
+http://whois.domaintools.com/mejoinc.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+mejo+incorporated 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+mejo 1
+incorporated 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 27 12697
+405 1 266
+500 42 429734
+301 118 51405
+404 92 438681
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 45
+/linkedin.com/in/mejoinc 1 -
+/LiveSearchSiteAuth.xml 1 -
+/portfolios/complex-solutions/quality-for-less-inc/http:/www.twitter.com/mejoinc 1 -
+/twitter.com/mejoinc 1 -
+/2010/09/21/corban-dental-supply-store-now-open 1 -
+/portfolios/web-design-and-development/angle-advisors/http:/www.twitter.com/mejoinc 1 -
+/2010/09/19/air-monitors-inc-s-new-website-has-launched/http:/www.twitter.com/mejoinc 1 -
+/tag/upgrades/http:/www.twitter.com/mejoinc 1 -
+/support 1 -
+/about-us 1 -
+/2011/02/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/color-schemes/style.css 16 http://www.mejoinc.com/about/
+/September/2011/ 1 -
+/portfolios/web-applications/poseidon/http:/www.twitter.com/mejoinc 1 -
+/trafficbasedsspsitemap.xml 6 -
+/2010/06/20/angle-advisors-website-is-now-live/http:/www.twitter.com/mejoinc 1 -
+/contact-us 1 -
+/apps 1 -
+/portfolios/mobile-applications/wallpaper-finder/http:/www.twitter.com/mejoinc 1 -
+/BingSiteAuth.xml 1 -
+/news 1 -
+/wp-content/themes/foliostudio-v2/js/Arial_400-Arial_700-Arial_italic_400-Arial_italic_700.font.js 19 http://www.mejoinc.com/about/
+/April/2010/ 3 -
+/services/mobile-applications/http:/www.twitter.com/mejoinc 1 -
+/portfolios/web-applications/http:/www.twitter.com/mejoinc 1 -
+/portfolios/mobile-applications/nervewhiz/http:/www.twitter.com/mejoinc 1 -
+/May/2010/ 2 -
+/February/2011/ 2 -
+/portfolios/web-design-and-development/air-monitors-inc/http:/www.twitter.com/mejoinc 1 -
+/services/web-hosting/http:/www.twitter.com/mejoinc 1 -
+/facebook.com/mejoinc 1 -
+/support/ 6 -
+/2010/04/http:/www.twitter.com/mejoinc 1 -
+/2011/08/http:/www.twitter.com/mejoinc 1 -
+/about/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/images/search-field-bg.gif 1 http://www.mejoinc.com/wp-content/themes/foliostudio-v2/style.css
+/2010/06/http:/www.twitter.com/mejoinc 1 -
+/tag/development/http:/www.twitter.com/mejoinc 1 -
+/tag/wallpaper-finder-2/http:/www.twitter.com/mejoinc 1 -
+/www.techinsurance.com/verified/ 1 -
+/community/news/2010/04/wallpaper-finder-lite-released/ 1 -
+/2010/05/http:/www.twitter.com/mejoinc 1 -
+/category/wallpaper-finder/http:/www.twitter.com/mejoinc 1 -
+/September/2010/ 1 -
+/2011/02/24/hail-to-the-victors/http:/www.twitter.com/mejoinc 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+031011220063.warszawa.vectranet.pl 57 57 1239981 20130301055202
+188.143.233.150 15 15 66555 20130302162829
+host80-198-static.227-95-b.business.telecomitalia.it 5 5 23052 20130301002310
+249.red-80-25-95.staticip.rima-tde.net 5 5 23052 20130301002337
+199.59.58.90 4 4 99760 20130305024537
+203.143.186.111 4 62 459611 20130304090540
+m875536d0.tmodns.net 3 57 442153 20130304194546
+c-98-250-78-244.hsd1.mi.comcast.net 3 52 439372 20130303183628
+150-70-64-208.trendmicro.com 3 3 57402 20130305182843
+c-98-206-174-175.hsd1.in.comcast.net 3 52 439374 20130305111814
+msnbot-131-253-38-67.search.msn.com 1 1 19156 20130301131514
+akrmspsrvz2ts420-dmz.mycingular.net 0 1 21113 
+46.229.167.149 2 2 24346 20130302125527
+wtp-g8-maya6.iad1 1 1 19134 20130303183638
+206-225-84-190.dedicated.codero.net 1 1 8679 20130304152623
+pool-72-77-61-6.pitbpa.east.verizon.net 2 63 385134 20130304155602
+91.231.40.53 2 2 49384 20130303040946
+dsl-66-115-69-244.bbr0.bncrpa.npacc.net 2 27 329400 20130304141454
+91.231.40.54 2 2 49384 20130303092630
+smtp41.networkro.com 1 1 24940 20130301144120
+192.162.19.194 2 2 49384 20130301125338
+adsl-76-226-58-129.dsl.sfldmi.sbcglobal.net 0 1 21170 
+204.14.79.48 0 1 21158 
+150.70.196.72 2 2 38268 20130305184712
+falcon506.startdedicated.com 1 1 19156 20130301202153
+ks313868.kimsufi.com 1 1 19213 20130301000430
+ycar19.mobile.bf1.yahoo.com 1 1 19156 20130301083511
+wtp-g8-maya1.iad1 1 1 19134 20130306002639
+178-137-91-11-lvv.broadband.kyivstar.net 1 1 19134 20130306031304 20130306031304 /
+220.181.51.106 0 1 48707 
+rate-limited-proxy-72-14-199-80.google.com 2 2 10456 20130305101056
+lastitem.bidzhealth.com 2 2 13048 20130302100506
+206-225-94-160.dedicated.codero.net 1 1 4434 20130304152626
+216-55-170-28.dedicated.codero.net 1 1 6502 20130304152619
+173-25-28-162.client.mchsi.com 2 63 385133 20130301155701
+108-70-133-96.lightspeed.rlghnc.sbcglobal.net 2 63 385134 20130304192346
+216-55-161-211.dedicated.codero.net 1 1 5190 20130304152615
+206-225-94-92.dedicated.codero.net 2 2 9831 20130304152631
+rrcs-65-31-74-120.central.biz.rr.com 3 53 449188 20130301113828
+216-55-137-51.dedicated.codero.net 1 1 4798 20130304152627
+66-226-72-105.dedicated.codero.net 1 1 5190 20130304152616
+pd95bef76.dip0.t-ipconnect.de 1 15 80891 20130305115805
+206-225-87-154.dedicated.codero.net 1 1 5190 20130304152618
+cpc22-brig17-2-0-cust50.3-3.cable.virginmedia.com 1 1 5228 20130304104940
+91.231.40.28 2 2 49384 20130302200519
+193.105.210.217 2 2 49384 20130305100504
+216-55-164-230.dedicated.codero.net 2 2 10290 20130304152629
+208.88.226.73 1 1 291 20130304103337
+216-55-161-64.dedicated.codero.net 1 1 5334 20130304152621
+wtp-g3-maya7.sjdc 1 1 19134 20130303200556
+123.125.67.206 0 1 48707 
+66.249.16.211 1 1 5228 20130304090616
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20130301 83 195 2360979 15
+20130302 22 23 221174 5
+20130303 10 62 692326 6
+20130304 29 288 2102595 20
+20130305 10 73 638085 7
+20130306 2 2 38268 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+2mn-5mn 1
+0s-30s 52
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 61
+/ 34 386284 33 22
+/wp-login.php 25 112659 3 3
+/2011/08/19/nervewhiz-released/ 11 271634 5 5
+/wp-content/themes/foliostudio-v2/themify/img.php 9 69559 0 4
+/2010/09/19/air-monitors-inc-s-new-website-has-launched/ 7 156153 6 5
+/wp-content/themes/foliostudio-v2/MuseoSans_500.otf 5 313944 0 4
+/about/ 2 22694 1 1
+/2011/09/07/mydesignerdental-com-launched/ 2 31087 1 1
+/contact/ 2 27865 0 1
+/services/ 2 20616 1 0
+/tag/updates/ 1 22885 0 0
+/services/mobile-applications/ 1 15641 0 0
+/tag/releases/ 1 24127 0 0
+/2011/02/24/hail-to-the-victors/ 1 24214 0 0
+/tag/air-monitors-inc/ 1 22903 0 0
+/2011/08/24/dns-serve-expansion/ 1 24459 0 0
+/category/clients-2/ 1 29516 0 0
+/portfolios/mobile-applications/ 1 15111 0 0
+/feed/ 1 4434 1 1
+/tag/dental/ 1 22221 0 0
+/category/android-apps/ 1 22664 0 0
+/tag/development/ 1 22518 0 0
+/tag/mejo-inc/ 1 22235 0 0
+/blog/ 2 46738 1 1
+/tag/dns/ 1 22208 0 0
+/portfolios/complex-solutions/corban-dental-supply/ 1 17029 0 0
+/2010/04/12/wallpaper-finder-available-now-on-itunes/ 1 25144 0 0
+/tag/iphone/ 1 24112 0 0
+/category/smartphone-applications/ 1 26821 0 0
+/category/iphone-apps/ 1 24269 0 0
+/services/web-design-development/ 1 15655 0 0
+/category/wallpaper-finder/ 1 24309 0 0
+/2010/05/07/wallpaper-finder-version-1-0-2-now-available-on-itunes/ 1 24854 0 0
+/portfolios/web-applications/poseidon/ 1 15018 0 0
+/portfolios/complex-solutions/ 1 15196 0 0
+/tag/upgrades/ 1 22243 0 1
+/category/web-sites/ 1 28009 0 0
+/author/mattm/ 1 32889 0 0
+/portfolios/complex-solutions/quality-for-less-inc/ 1 14487 0 0
+/services/web-applications/ 2 21314 1 1
+/portfolios/web-applications/ 1 14365 0 0
+/portfolios/mobile-applications/nervewhiz/ 1 19195 0 0
+/category/uncategorized/ 1 22401 0 0
+/2010/09/21/birch-reality-inc-and-mejo-inc-launch-custom-tailored-water-and-sewer-billing-web-application/ 1 25602 0 0
+/category/web-applications/ 1 23421 0 0
+/portfolios/web-design-and-development/physicians-data/ 1 15512 0 0
+/tag/app/ 1 24091 0 0
+/tag/clients/ 1 23972 0 0
+/author/joec/ 1 22582 0 0
+/tag/angle-advisors/ 1 22539 0 0
+/tag/itunes/ 1 24113 0 0
+/2010/06/20/angle-advisors-website-is-now-live/ 2 31340 0 1
+/services/web-hosting/ 2 21982 0 1
+/2011/08/10/norms-field-of-dreams-site-launched/ 1 24577 0 0
+/portfolios/web-design-and-development/crookston-audio/ 1 14491 0 0
+/portfolios/web-design-and-development/ 1 17540 0 0
+/category/design-2/ 1 24370 0 0
+/portfolios/web-design-and-development/norms-field-of-dreams/ 1 14408 0 0
+/category/development-2/ 1 25658 0 0
+/portfolio/ 2 24542 1 1
+/portfolios/mobile-applications/wallpaper-finder/ 2 16427 1 1
+END_SIDER

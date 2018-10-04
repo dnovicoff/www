@@ -1,0 +1,55 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+                <center>
+                        <img src="/img/executive-cleaning-solutions/service.jpg" alt="Services" height="400" width="1200" />
+                </center>
+        </replaceContent>
+
+	<replaceContent select="#quotecenterright">
+		<br />
+		<div style="padding:1%;">
+			24875 Novi Rd. #264<br />
+			Novi, MI. 48376<br />
+			(248)767-0976<br />
+			<a href="mailto:erik@executive-cleaning-solutions.com?Subject=Executive-Cleaning-Solutions" class="nav">
+				Customer Service</a><br /><br />
+			<br /><br />
+			<img height="384" width="322" src="/img/executive-cleaning-solutions/MichiganTriCountyMap.jpg" />
+		</div>
+		<br />
+	</replaceContent>
+
+	<replaceContent select="#quotecenterleft">
+		<br />
+		<div style="padding:1%;">
+
+
+			<b><font color="blue">Emergency Cleanup</font></b><br /><br />
+	
+			When unforeseen issues occur that require emergency clean-up, Executive Cleaning 
+			Solutions is at your service. Our professional and experienced team will provide 
+			a quick response to handle whatever issue that may occur. Our expertise includes: 		
+			<br /><br />
+
+			<ul>
+				<li>Water Damage</li>
+				<li>Fire restoration </li>
+				<li>Spots, stains and odor removal</li>
+				<li>Expert carpet cleaning</li>
+				<li>Hard surface floor cleaning</li>
+			</ul><br /><br />
+
+			Mishaps, plumbing failures, natural disasters or an unexpected facility 
+			impact can potentially affect your business if you don't have the right team 
+			in place to restore your location.  In the event you need our services we 
+			will be there for you each and every time.
+
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

@@ -1,0 +1,151 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+		
+
+	<form method="post" action="/gdform.php" id="#contactForm" name="contactForm" onSubmit="return validate()">
+
+	<input type="hidden" name="subject" value="Contact Form Submission" /> 
+	<input type="hidden" name="redirect" value="/" /> 
+	<input type="hidden" name="email" value="dnovicoff@yahoo.com" /> 
+
+	<div class="style5 tableStyle" style="background-color:#860C17;">
+	        <span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">
+			Please complete the fields below and we will respond to your inquiry within 48 hours.
+		</span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_First" id="formLabel_First" class="formSpanLeft"> First Name: </span>
+		<span class="formSpanRight"><input labelid="formLabel_First" name="FirstName" id="fName" /></span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_Last" id="formLabel_Last" class="formSpanLeft"> Last Name: </span>
+		<span class="formSpanRight"><input labelid="formLabel_Last" name="LastName" id="lName" /></span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_Street1" id="formLabel_Street1" class="formSpanLeft"> Address 1: </span>
+		<span class="formSpanRight"><input labelid="formLabel_Street1" name="AddressStreet1" size="30" id="street1" /></span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_Street2" id="formLabel_Street2" class="formSpanLeft"> Address 2: </span>
+		<span class="formSpanRight"><input labelid="formLabel_Street2" name="AddressStreet2" size="30" id="street2" /></span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_City" id="formLabel_City" class="formSpanLeft"> City: </span>
+		<span class="formSpanRight"><input labelid="formLabel_City" name="City" id="city" /></span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_Zip" id="formLabel_Zip" class="formSpanLeft"> Zip Code: </span>
+		<span class="formSpanRight"><input labelid="formLabel_Zip" maxlength="5" name="ZipCode" size="5" id="zip" />(5 digits)</span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_State" id="formLabel_State" class="formSpanLeft"> State: </span>
+		<span class="formSpanRight">
+		<select labelid="formLabel_State" name="State" id="state">
+			<option selected="selected" value="AL"> AL </option>
+			<option value="AK"> AK </option><option value="AZ"> AZ </option>
+			<option value="AR"> AR </option><option value="CA"> CA </option>
+			<option value="CO"> CO </option><option value="CT"> CT </option>
+			<option value="DE"> DE </option><option value="DC"> DC </option>
+			<option value="FL"> FL </option><option value="GA"> GA </option>
+			<option value="HI"> HI </option><option value="ID"> ID </option>
+			<option value="IL"> IL </option><option value="IN"> IN </option>
+			<option value="IA"> IA </option><option value="KS"> KS </option>
+			<option value="KY"> KY </option><option value="LA"> LA </option>
+			<option value="ME"> ME </option><option value="MD"> MD </option>
+			<option value="MA"> MA </option><option value="MI"> MI </option>
+			<option value="MN"> MN </option><option value="MS"> MS </option>
+			<option value="MO"> MO </option><option value="MT"> MT </option>
+			<option value="NE"> NE </option><option value="NV"> NV </option>
+			<option value="NH"> NH </option><option value="NJ"> NJ </option>
+			<option value="NM"> NM </option><option value="NY"> NY </option>
+			<option value="NC"> NC </option><option value="ND"> ND </option>
+			<option value="OH"> OH </option><option value="OK"> OK </option>
+			<option value="OR"> OR </option><option value="PA"> PA </option>
+			<option value="RI"> RI </option><option value="SC"> SC </option>
+			<option value="SD"> SD </option><option value="TN"> TN </option>
+			<option value="TX"> TX </option><option value="UT"> UT </option>
+			<option value="VT"> VT </option><option value="VA"> VA </option>
+			<option value="WA"> WA </option><option value="WV"> WV </option>
+			<option value="WI"> WI </option><option value="WY"> WY </option>
+		  </select>
+		</span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_DaytimePhone" id="formLabel_DaytimePhone" class="formSpanLeft"> Daytime Phone: </span>
+		<span class="formSpanRight"><input labelid="formLabel_DaytimePhone" name="DaytimePhone" id="dPhone" /></span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_EveningPhone" id="formLabel_EveningPhone" class="formSpanLeft"> Evening Phone: </span>
+		<span class="formSpanRight"><input labelid="formLabel_EveningPhone" name="EveningPhone" id="ePhone" /></span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_Email" id="formLabel_Email" class="formSpanLeft"> Email: </span>
+		<span class="formSpanRight"><input labelid="formLabel_Email" name="Email" id="email" /></span>
+	</div>
+	<div class="style5">
+		<span controlid="formElement_Comments" id="formLabel_Comments" class="formSpanLeft"> Comments: </span>
+		<span class="formSpanRight"><textarea labelid="formLabel_Comments" style="width:50%;border:1px solid #A5ACB2" cols="20" rows="4" name="Comments" id="formElement_Comments">Enter comments here!
+	            </textarea>
+		</span>
+	</div>
+	<div class="style5">
+		<span class="formSpanLeft"></span>
+		<span class="formSpanRight">
+	  		<p><input type="submit" onclick="" value="Submit" id="contactFormButton" />
+			<input type="reset" value="Reset" id="wstForm_Contact_Reset" /></p>
+		</span>
+	</div>
+	</form>
+	<div style="clear:both;"><br />
+	</div>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+		function validate()  {
+			var fName = $('#fName').val();
+			var lName = $('#lName').val();
+			var dPhone = $('#dPhone').val();
+			var email = $('#email').val();
+			var emailRegEx = /^([a-zA-Z0-9_.-])+@([a-zA-Z0-9_.-])+\.([a-zA-Z])+([a-zA-Z])+/;
+			var phoneRegEx = /\(*\d{3}\)*\s*-*\d{3}\s*-*\d{4}/;
+			var isFalse = 0;
+
+			if (fName == '')  {
+				$('#fName').css("background-color","yellow");
+				isFalse = 1;
+			}
+			if (lName == '')  {
+				$('#lName').css("background-color","yellow");
+				isFalse = 1;
+			}
+			if (!phoneRegEx.test(dPhone))  {
+				$('#dPhone').css("background-color","yellow");
+				isFalse = 1;
+			}
+			if (!emailRegEx.test(email))  {
+				$('#email').css("background-color","yellow");
+				isFalse = 1;
+			}
+
+			if (isFalse == 1)  {
+				return false;
+			}
+		}
+		$('#fName').focus(function (data)  {
+			$('#fName').css("background-color","white");
+		});
+		$('#lName').focus(function (data)  {
+			$('#lName').css("background-color","white");
+		});
+		$('#dPhone').focus(function (data)  {
+			$('#dPhone').css("background-color","white");
+		});
+		$('#email').focus(function (data)  {
+			$('#email').css("background-color","white");
+		});
+	]]></eval>
+</taconite>

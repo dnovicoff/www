@@ -1,0 +1,81 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="style5"><div><img width="468" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" /></div>                </td>
+            </tr>
+            <tr>
+              <td class="style5"><table bgcolor="#860C17" align="center" width="455" cellspacing="2" cellpadding="2" border="0">
+                <tbody><tr>
+                  <td width="43%"><span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">The
+                      Hampton II </span></td>
+                  <td class="style2"><div align="right">Colonial</div>                    </td>
+                  </tr>
+                <tr>
+                  <td colspan="2"><table bgcolor="#FFFFFF" align="center" width="455" cellspacing="0" cellpadding="5" border="0">
+                      <tbody><tr>
+                        <td width="47%" height="250"><div align="center"><img width="360" height="240" alt="Hampton II Elevation D" src="/img/upland-homeinc/communities/homestead/HamptonII/HampD.gif" /></div></td>
+                      </tr>
+                      <tr>
+                        <td valign="top"><div style="padding-left:12px; padding-top:2px; padding-right:6px;padding-bottom:6px" class="style6Blue">
+						Two Story Foyer &amp; Great Room<br />
+                            4 Bedrooms<br />
+                            2 ½ Baths<br />
+                            Full Basement<br />
+                            Attached 2 Car Front Entry Garage with Option for
+                            3 Car Garage<br />
+                        2800 square feet </div>
+                            <div style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style5">  This
+                              contemporary colonial has a dramatic entry way
+                              and Great Room with a wall of windows. The kitchen
+                              is a cook’s delight with ample cabinets and counter
+                              top area and large breakfast area. This elegant
+                              floor plan includes a formal dining room and large
+                              library. The master suite features a deluxe bath
+                              with his &amp;  her
+                            vanities, corner soaking tub and separate toilet
+                            and shower area for added privacy; it also features
+                            a large walk-in closet with generous hanging and
+                            shelves for storage. This home is excellent for entertaining
+                            or just relaxing in front of the fireplace.</div>                          </td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FFFFFF" valign="top" class="style8">1st
+                          Floor </td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FFFFFF" height="250"><div align="left"><img width="321" height="353" alt="1st Floor" src="/img/upland-homeinc/communities/homestead/HamptonII/Hampton-FF.gif" /></div></td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FFFFFF" valign="top"><div align="right" class="style8">2nd
+                            Floor </div></td>
+                      </tr>
+                      <tr>
+                        <td bgcolor="#FFFFFF" valign="top"><div align="right"><img width="327" height="321" alt="2nd Floor" src="/img/upland-homeinc/communities/homestead/HamptonII/Hampton-SF.gif" /></div></td>
+                      </tr>
+                      <tr>
+                        <td valign="top"><div style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style9small">Disclaimer:
+                            Prices, plans, specifications manufacturers' brands
+                            and availability are subject to change without notice
+                            or obligation. All renderings are artist's concept.
+                            Floor plans are intended to serve as a guide, not
+                            to accurately depict the legal description of the
+                            property's boundaries, dimensions, scale of rooms
+                            and their relative locations. </div></td>
+                      </tr>
+                  </tbody></table></td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+          </tbody></table>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

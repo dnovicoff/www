@@ -1,0 +1,72 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+		<center>
+			<img src="/img/executive-cleaning-solutions/service.jpg" alt="Services" height="400" width="1200" />
+		</center>
+	</replaceContent>
+
+	<replaceContent select="#quotecenterright">
+		<br />
+		<div style="padding:1%;">
+			24875 Novi Rd. #264<br />
+			Novi, MI. 48376<br />
+			(248)767-0976<br />
+			<a href="mailto:erik@executive-cleaning-solutions.com?Subject=Executive-Cleaning-Solutions" class="nav">
+				Customer Service</a><br /><br />
+			<br /><br />
+			<img height="384" width="322" src="/img/executive-cleaning-solutions/MichiganTriCountyMap.jpg" />
+		</div>
+		<br />
+	</replaceContent>
+
+	<replaceContent select="#quotecenterleft">
+		<br />
+		<div style="padding:1%;">
+
+			<span class="headline">We are committed to being the best in our industry</span>
+			<br /><br />
+
+
+			Executive Cleaning Solutions offers a wide range of cleaning services from dusting 
+			and garbage removal to window cleaning and floor maintenance. We are always flexible 
+			to meet the needs of our clients. Whether it’s a once a week general clean or a 
+			day porter that maintains the daily cleanliness of your facility, Executive Cleaning 
+			Solutions will do what it takes to ensure complete client satisfaction. 
+			<br /><br />
+			It is proven, that a clean facility improves moral, productivity and reduces health concerns. 
+			By contacting Executive Cleaning Solutions today, we will begin the journey of 
+			developing a plan that will keeping your facility clean and a wonderful place to work. 
+			<br /><br /><br />
+
+			<a href="#" id="servicesOfficeCleaning" class="subNav">
+			<img src="/img/executive-cleaning-solutions/iconOfficeCleaning.jpg" />
+			Office Cleaning</a><br /><br />
+
+			<a href="#" id="servicesDayPorterCleaning" class="subNav">
+			<img src="/img/executive-cleaning-solutions/iconDayPorterCleaning.jpg" />
+			Day Porter Cleaning</a><br /><br />
+
+			<a href="#" id="servicesEmergencyCleaning" class="subNav">
+			<img src="/img/executive-cleaning-solutions/iconEmergencyCleaning.jpg" />
+			Emergency Cleaning</a><br /><br />
+
+			<a href="#" id="servicesFloorAndCarpetCare" class="subNav">
+			<img src="/img/executive-cleaning-solutions/iconFloorCarpetCleaning.jpg" />
+			Floor &amp; Carpet Cleaning</a><br /><br />
+
+			<a href="#" id="servicesWindowCleaning" class="subNav">
+			<img src="/img/executive-cleaning-solutions/iconWindowCleaning.jpg" />
+			Window cleaning</a><br />
+
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+		$('.subNav').click(function (data)  {
+                	getAJAX($(this).attr("id"));
+		});
+	]]></eval>
+</taconite>

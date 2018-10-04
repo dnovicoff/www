@@ -1,0 +1,25 @@
+
+
+<taconite>
+	<replaceContent select=".overlayPageTitle">
+		<span><b>Capture 3D</b></span>
+	</replaceContent>
+
+	<replaceContent select=".overlayPage">
+		<span class="row">
+			<span class="col leftSide">
+				<a href="" target="_blank">
+				<img alt="Motoman Robot" style="border-style:none;" src="/img/home/clients/capture3D/motomanRobot.jpeg" height="300" width="300" />
+				</a>
+			</span>
+			<span class="col rightSide">
+				PIctured to the left is the Motoman Hydraulic Robot. This project was built using c++ as the programming language. There was the 
+				talking to the robot. As well as the robot talking to the computer. The robot used a protocol for each message sent. It was mostly 
+				composed of yes I got it, and the like. 
+			</span>
+		</span>
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

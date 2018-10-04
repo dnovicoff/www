@@ -1,0 +1,41 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="style5"><div><img width="468" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" /></div>                </td>
+            </tr>
+            <tr>
+              <td class="style5"><table bgcolor="#860C17" align="center" width="455" cellspacing="2" cellpadding="2" border="0">
+                <tbody><tr>
+                  <td><span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">Location
+                      Map   </span></td>
+                  </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><p align="center" class="style3Link"> </p>
+                    <p align="center" class="style3Link"> </p>
+                    <p align="center" class="style3Link"> </p>
+                    <p align="center" class="style3Link"><a href="http://us.rd.yahoo.com/maps/extmap;_ylt=Am4HP3__LANzVfUt3iOluuBkDLMF/*-http://maps.yahoo.com/maps_result?addr=7352+Anna+Dr&amp;csz=Belleville%2C+MI+48111-5179&amp;state=MI&amp;uzip=48111&amp;ds=n&amp;name=&amp;desc=&amp;lat=42.249498&amp;lon=-83.463507&amp;mlt=42.249498&amp;mln=-83.463507&amp;zoomin=yes&amp;BFKey=&amp;mag=2">Waiting for Digital
+                      image of map</a><br />
+                    </p>
+                    <p align="center" class="style3Link"> </p>
+                    <p align="center" class="style3Link"> </p>
+                    <p align="center" class="style3Link"> </p>
+                    <div style="padding-left:9px; line-height:16px; padding-right:6px; padding-bottom:6px">Click
+                      on the map image above to view an Interactive Map.</div>
+                    </td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+          </tbody></table>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

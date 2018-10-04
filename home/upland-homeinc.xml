@@ -1,0 +1,25 @@
+
+
+<taconite>
+	<replaceContent select=".overlayPageTitle">
+		<span><b>Upland Homes. Southeastern Michigan Realtor's</b></span>
+	</replaceContent>
+
+	<replaceContent select=".overlayPage">
+		<span class="row">
+			<span class="col leftSide">
+				<a href="http://upland-homesinc.com" target="_blank">
+				<img alt="MSC Screen Shot" style="border-style:none;" src="/img/home/clients/upland-homeinc/upland-homeincGalleryThumb.png" height="300" width="300" />
+				</a>
+			</span>
+			<span class="col rightSide">
+				This is a screen shot of a gallery installation done in javascript. Clean,
+				consice and allows for easy addition
+				of new graphics as the client see's fit.
+			</span>
+		</span>
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

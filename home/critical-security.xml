@@ -1,0 +1,25 @@
+
+
+<taconite>
+	<replaceContent select=".overlayPageTitle">
+		<span><b>Critical Security</b></span>
+	</replaceContent>
+
+	<replaceContent select=".overlayPage">
+		<span class="row">
+			<span class="col leftSide">
+				<a href="http://bb4.com" target="_blank">
+				<img alt="Big Brother" style="border-style:none;" src="/img/home/clients/critical-security/bb4DashboardThumb.jpeg" height="300" width="300" />
+				</a>
+			</span>
+			<span class="col rightSide">
+				Pictured at left is a Big Brother installation web page. This graphic was chosen as best to illistrate what
+				my tasks were composed. Most in-house written software was done in Perl. Some legacy Bsh, Tsh, and Csh scripts
+				were maintained and upgraded to a web interface.
+			</span>
+		</span>
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

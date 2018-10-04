@@ -1,0 +1,24 @@
+
+
+<taconite>
+	<replaceContent select=".overlayPageTitle">
+		<span><b>Your Company</b></span>
+	</replaceContent>
+
+	<replaceContent select=".overlayPage">
+		<br />
+		<br />
+		<br />
+		<br />
+		<span class="row">
+			<span><b>A closer look at your company</b></span>
+		</span>
+		<span class="row">
+		</span>
+		<span class="row">
+		</span>
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

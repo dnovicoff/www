@@ -1,0 +1,26 @@
+
+
+<taconite>
+	<replaceContent select=".overlayPageTitle">
+		<span><b>Innovative Leather Technologies</b></span>
+	</replaceContent>
+
+	<replaceContent select=".overlayPage">
+		<span class="row">
+			<span class="col leftSide">
+				<a href="" target="_blank">
+				<img alt="Motoman Robot" style="border-style:none;" src="/img/home/clients/innovative-leather-technologies/vbaThumb.jpeg" height="300" width="300" />
+				</a>
+			</span>
+			<span class="col rightSide">
+				This application was written in Visual Basic for Applications. A total of 47 tables were built. A fully commprehensive dossier
+				of vendors and clients, and their related products was built. The application has the ability to maintain state of any number
+				of lines. Several reports were drawn up that would query the database, in real time, and give accurate data on current 
+				workload, pace of and and all lines, and expected output for any time in the future. This is a networked application. 
+			</span>
+		</span>
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

@@ -1,0 +1,117 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="style5"><div><img width="468" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" /></div>                </td>
+            </tr>
+            <tr>
+              <td class="style5"><table bgcolor="#860C17" align="center" width="455" cellspacing="2" cellpadding="2" border="0">
+                <tbody><tr>
+                  <td><span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">Community
+                      Information </span></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                      <p>Peaceful, quiet, close to everything. That's what you'll
+                        experience living in The Homestead. The Homestead combines
+                        big city elegance with quaint small town charm. The Homestead
+                        features a vast array of home styles, from ranches to
+                        cape cods to colonials; one of which was created just
+                        for you. Don't miss out on the opportunity to become
+                        a part of this fabulous community. We would love to share
+                        our wonderful living experience with you.</p>
+                    </div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                      <p class="style8wideBrown">Outstanding Included Features…                      </p>
+                      <p><span class="style6BDkBrown">A Great Location </span><br />
+                      • Easy access to 275 and 94 <br />
+                      • 10 minutes from Metro Airport<br />
+                      • Just minutes from world class shopping, dining, recreation
+                      and entertainment</p>
+                      <p><span class="style6BDkBrown">Elegant Exteriors</span><br />
+                      • Spectacular elevations with distinctive architectural
+                        designs<br />
+                      • Full range of color and material selections<br />
+                      • Brick on front elevation<br />
+                      • Covered front porch-per  plan<br />
+                      • Concrete driveway  and walkways<br />
+                      • Paved streets and sidewalks throughout <br />
+                      • Underground utilities <br />
+                      • City water and sewer <br />
+                      • Brass light fixtures <br />
+                      • Roll up sectional garage door <br />
+                      • Two exterior water spigots <br />
+                      • Maintenance free vinyl siding <br />
+                      • Aluminum gutters and downspouts</p>
+                    <p><span class="style6BDkBrown">Luxurious Baths</span><br />
+                      • Separate soaking tub and shower in Master bath, Double
+                        sink - per plan<br />
+                      • One piece fiberglass tub/shower <br />
+                      • Single lever chrome faucets
+                      <br />
+                      • Ceramic floors and tub surround<br />
+                      • Laminate countertops<br />
+                      • Full width mirrors over vanity</p>
+                    <p><span class="style6BDkBrown">Excellent Interiors</span><br />
+                      • Deluxe six panel painted colonist doors
+                      <br />
+                      • Premium O.G. door casings and base moldings<br />
+                      • Brass door hardware<br />
+                      • Custom quality painted trim <br />
+                      • 3/4" glued and nailed floors <br />
+                      • Carpeting throughout 
+                      <br />
+                      • Armstrong#x00AE; Successor no-wax resilient vinyl flooring<br />
+                      • Hardwood flooring in foyer</p>
+                    <p><span class="style6BDkBrown">Kitchens</span><br />
+                      • Aristocraft#x00AE; oak or pine cabinets<br />
+                      • Laminate countertops<br />
+                      • GE#x00AE; Potscubber dishwasher<br />
+                      • GE#x00AE; ductless range hood <br />
+                      • Spacious Pantry storage - per plan
+                      <br />
+                      • Garbage disposal<br />
+                      • Kitchen island - per plan                      </p>
+                    <p><span class="style6BDkBrown">Energy Saving Features</span><br />
+                      • Insulated steel entry doors with full weatherstripping <br />
+                      • Foam sill sealer (basement) <br />
+                      • Double glazed vinyl windows <br />
+                      • Full insulation R-13 walls, R-30 ceilings <br />
+                      • 90% energy efficient furnace <br />
+                      • Tyvek house wrap</p>
+                    <p><span class="style6BDkBrown">Electrical and Mechanical</span><br />
+                      • 150 amp circuit breaker electrical system<br />
+                      • Gas forced air furnace with
+                        central air prep<br />
+                      • Pre-selected lighting fixtures <br />
+                      • Recessed lights - per plan <br />
+                      • Cat 5 cable and telephone jacks 
+                      <br />
+                      • Pre-wired for security system<br />
+                      • Pre-wired for garage door opener <br />
+• Dryer vent <br />
+• Gas or electrical service to dryer and range <br />
+• Smoke detector with battery backup to all levels <br />
+• Two exterior electrical outlets <br />
+• Bath exhaust fans <br />
+• 40 gallon high efficiency water heater <br />
+• Sump pump <br />
+                      • Door chime</p>
+                    </div></td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+          </tbody></table>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

@@ -1,0 +1,42 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+		<center>
+		<img style="border-color:blue;border:1px;" src="/img/executive-cleaning-solutions/home-page.jpg" width="1200" height="400" />
+		</center>
+	</replaceContent>
+
+	<replaceContent select="#quotecenterright">
+		<iframe src="//www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FExecutive-Cleaning-Solutions%2F464724500256288&amp;layout=standard&amp;show_faces=false&amp;colorscheme=light&amp;font&amp;width=450&amp;appId=111618955553614" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:45px;" allowTransparency="true"></iframe>
+	</replaceContent>
+
+	<replaceContent select="#quotecenterleft">
+		<br />
+		<div style="padding:1%;">
+ 			<b class="headline">Welcome to Executive Cleaning Solutions</b><br />
+
+				Executive Cleaning Solutions is your trusted <b>commercial cleaning</b> company located in Oakland County, 
+				Michigan servicing the sounding areas. We pride ourselves in our <b>unwavering pledge to customer 
+				satisfaction. </b>
+				We are a family owned and operated business that does not depend on a large mass of clients for 
+				survival. We appreciate all of our clients from large to small and regardless of the size 
+				of your company; we commit ourselves 100% each and every time we perform a service. 
+				We pride ourselves on our loyalty, integrity, being detail orientated and trustworthy. 
+				We ALWAYS go over and beyond for every client we service!!!!
+				<br /><br /><br />
+	
+				<img src="/img/executive-cleaning-solutions/homeMidLeft.jpg" height="400" width="450" alt="mid" />
+				<br /><br />
+				The Executive Cleaning Solution staff is experienced, dedicated and available anytime 
+				to handle any cleaning demands necessary. Whether you are in a single or multiple 
+				level office building, restaurant, school, bank or government building, Executive 
+				Cleaning Solutions is the professional cleaning company for you!
+ 
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

@@ -1,0 +1,108 @@
+
+<taconite>
+	<replaceContent select="#quotescenter">
+		<br />
+		<div class="raisedBox">
+		<div style="padding:1%">
+		<h4>A sampling of work previously done.</h4>
+		<div class="row" style="padding-bottom:2%">
+			<div class="col" style="width:20%">
+				<img id="ECS" class="resultsImgNav" style="border-style:none;" src="/img/home/clients/executive-cleaning-solutions/homeThumb.png" alt="MSC" height="150" width="150"  /> 
+			</div>
+			<div class="col" style="width:65%">
+				<a class="" href="http://executive-cleaning-solutions.com" target="_blank">
+					Executive Cleaning Solutions<br />
+				</a>
+				this site was developed for a commerical office cleaning operaition.
+				It displays a map, as well as a form used for contact purposes. We used 
+				AJAX calls for data and left the frame intact. 
+			</div>
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<div class="col" style="width:20%">
+				<img id="MSC" class="resultsImgNav" style="border-style:none;" src="/img/home/clients/MSC/MSCThumb.png" alt="MSC" height="150" width="150"  /> 
+			</div>
+			<div class="col" style="width:65%">
+				<a class="" href="http://www.ams.org/mathscinet/msc/msc2010.html" target="_blank">
+					Mathematics Subject Classification<br />
+				</a>
+				This site is the entire field of mathematics broken down into a searchable
+				framework. So what I'm really doing now is not creating clever copy for my site
+				as much as getting the look and feel correct on the css... Not sure what is the 
+				most important, but doing someghing is!!!
+			</div>
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<div class="col" style="width:20%">
+				<img id="upland-homeinc" class="resultsImgNav" style="border-style:none;" src="/img/home/clients/upland-homeinc/upland-homeincthumb" alt="upland-homeinc" height="150" width="150"  /> 
+			</div>
+			<div class="col" style="width:65%">
+				<a class="" href="http://upland-homesinc.com" target="_blank">
+					Upland Homesinc
+				</a><br />
+				This site was done for a realtor. A template from an old site loaded with flash content. 
+				The flash content needed to be stripped
+				out. The framework stayed the same. However, a re-engineering took place to achieve 
+				the same effect. It's lighter than 
+				the origional design. A quicker load time. 
+			</div>
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<div class="col" style="width:20%">
+				<img id="critical-security" class="resultsImgNav" style="border-style:none;" src="/img/home/clients/critical-security/mouseThumb" alt="critical-security" height="150" width="150"  /> 
+			</div>
+			<div class="col" style="width:65%">
+				<a class="" href="http://google.com?q=search" target="_blank">
+					Critical Security
+				</a><br />
+				This was an ongoing contract position servicing several critical servers in the health 
+				care industry. Uptime, system / network 
+				performance, and cost. 
+			</div>
+		</div>
+		<div class="row" style="padding-bottom:2%">	
+			<div class="col" style="width:20%">
+				<img id="capture3D" class="resultsImgNav" style="border-style:none;" src="/img/home/clients/capture3D/capture3DThumb" alt="capture3D" height="150" width="150" />
+			</div>
+			<div class="col" style="width:65%">
+				<a class="" href="http://capture3d.com" target="_blank">
+					Capture 3D
+				</a><br />
+				Here we build a device driver for the Motoman Robot. The operating system was a Suse Linux. 
+				They were running a German built piece of 
+				software to enable the automation of the hydraulic robot. The project was to learn 
+				the existing codebase, add the driver 
+				so as to communicate to the robot. Add any extra functionality. the project finished very successfully.
+			</div>
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<div class="col" style="width:20%">
+				<img id="innovativeLeatherTech" class="resultsImgNav" style="border-style:none;" src="/img/home/clients/innovative-leather-technologies/leatherSeatThumb.jpeg" alt="Innovative Leather Technologies" height="150" width="150" />
+			</div>
+			<div class="col" style="width:65%">
+				<a class="" href="http://www.google.com" target="_blank">
+					Innovative Leather Technologies
+				</a><br />
+				This company processes raw hides into usable leather to upholster automotive seats. 
+				This is a factory that runs several processing
+				lines with an eye for growth. What they wanted was a system that can track raw materials 
+				as they entered and be able to convert 
+				that data into usable product and provide the breakdown in raw materials v finished product.
+			</div>
+		</div>
+		<div class="row" style="padding-bottom:2%">
+			<div class="col" style="width:20%">
+				<img id="YourCompany" class="resultsImgNav" style="border-style:none;" src="" alt="Your Company" height="150" width="150"  /> 
+			</div>
+			<div class="col" style="width:65%">
+				Some wonderfully written text about what great work I accomplished here
+			</div>
+		</div>
+		</div>
+		</div>
+		<br />
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

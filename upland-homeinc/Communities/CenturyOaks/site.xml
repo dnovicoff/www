@@ -1,0 +1,19 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+		<div class="style5" style="width:100%">
+              		<img width="650" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" />
+		</div>
+		<div class="style5 tableStyle">
+			<a href="/img/upland-homeinc/communities/CenturyOaks/CenturyOaksSite.pdf" target="_blank">
+			<img width="650" height="500" alt="Site Map" src="/img/upland-homeinc/communities/CenturyOaks/CenturyOaksSite.jpg" />
+			</a>
+		</div>
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

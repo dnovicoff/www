@@ -1,0 +1,9 @@
+
+
+<taconite>
+	<replaceContent select="#topPicture">
+		<center>
+			<img src="/img/executive-cleaning-solutions/contact.jpg" alt="Contact" height="400" width="1200" />
+		</center>
+	</replaceContent>
+</taconite>

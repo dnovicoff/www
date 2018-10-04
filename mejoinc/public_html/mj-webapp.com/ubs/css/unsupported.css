@@ -1,0 +1,72 @@
+/*
+ * $HeadURL$
+ * $Id$
+ * $Author$
+ * $Revision$
+ * $Date$
+ */
+#header		{
+	-moz-border-radius-bottomleft: 8px;
+	-moz-border-radius-bottomright:  8px;
+	-khtml-border-radius-bottomleft: 8px;
+	-khtml-border-radius-bottomright:  8px;
+	-webkit-border-bottom-left-radius: 8px;
+	-webkit-border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	-moz-box-shadow:0 2px 6px #000;
+	-webkit-box-shadow:0 2px 6px #000;
+	box-shadow:0 2px 6px #000;
+	margin-bottom:20px;
+}
+
+#bugForm {
+	-moz-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+}
+
+#header h1	{
+	-moz-text-shadow:1px 1px 2px #fcfdfd;
+	-webkit-text-shadow:1px 1px 2px #fcfdfd;
+	text-shadow:1px 1px 2px #fcfdfd;
+}
+h2	{
+	-moz-text-shadow:1px 1px 2px #002157;
+	-webkit-text-shadow:1px 1px 2px #002157;
+	text-shadow:1px 1px 2px #002157;
+}
+h3	{
+	-moz-text-shadow:1px 1px 2px #fcfdfd;
+	-webkit-text-shadow:1px 1px 2px #fcfdfd;
+	text-shadow:1px 1px 2px #fcfdfd;
+}
+#breadcrumb 	{ 
+	-moz-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	-moz-box-shadow:0 0 4px #a6c9e2;
+	-webkit-box-shadow:0 0 4px #a6c9e2;
+	box-shadow:0 0 4px #a6c9e2;
+}
+
+#content	{
+	-moz-border-radius: 8px;
+	-khtml-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	-moz-box-shadow:0 2px 12px #000;
+	-webkit-box-shadow:0 2px 12px #000;
+	box-shadow:0 2px 12px #000;
+}
+
+.park-action-1col, 
+.park-action-2col, 
+.park-action-3col	{
+	-moz-border-radius:5px;
+	-khtml-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+}

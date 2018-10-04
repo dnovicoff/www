@@ -1,0 +1,946 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201302 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2549                
+POS_VISITOR 24515               
+POS_DAY 35044               
+POS_DOMAIN 3457                
+POS_LOGIN 3887                
+POS_ROBOT 4042                
+POS_WORMS 5298                
+POS_EMAILSENDER 5429                
+POS_EMAILRECEIVER 5572                
+POS_SESSION 35796               
+POS_SIDER 35994               
+POS_FILETYPES 5707                
+POS_OS 5943                
+POS_BROWSER 6142                
+POS_SCREENSIZE 6637                
+POS_UNKNOWNREFERER 6711                
+POS_UNKNOWNREFERERBROWSER 7219                
+POS_ORIGIN 7526                
+POS_SEREFERRALS 7669                
+POS_PAGEREFS 7846                
+POS_SEARCHWORDS 8343                
+POS_KEYWORDS 8822                
+POS_MISC 2213                
+POS_ERRORS 9179                
+POS_CLUSTER 3743                
+POS_SIDER_404 9340                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20130301000429 1554 369416 64391085752
+FirstTime 20130201001429
+LastTime 20130228193552
+LastUpdate 20130301031907 1554 1164 389 0 0
+TotalVisits 269                 
+TotalUnique 183                 
+MonthHostsKnown 141                 
+MonthHostsUnknown 54                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 22 23 419938 230 373 1686882
+1 241 252 1398493 240 249 1398129
+2 33 123 992744 250 284 1511675
+3 29 29 445333 131 141 413284
+4 60 106 1025719 334 355 3094037
+5 34 148 1477598 115 147 664493
+6 14 91 604030 169 192 751826
+7 18 32 340907 141 151 683601
+8 105 145 957712 352 383 1577985
+9 10 59 554549 335 390 2508257
+10 31 175 1531322 209 245 748553
+11 27 200 1552137 224 273 841802
+12 15 138 1120042 307 375 3097315
+13 18 159 1092116 244 276 1684306
+14 25 58 404818 269 298 1516070
+15 28 372 2450888 178 230 1007735
+16 16 67 758908 374 409 4373927
+17 11 120 952419 244 268 1500523
+18 31 386 2813978 268 330 1428922
+19 39 339 2382268 199 252 1230792
+20 20 71 637268 268 293 1578088
+21 38 160 1065020 187 248 1494343
+22 39 212 1733113 277 393 1983019
+23 24 48 383939 211 289 1191016
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+net 438 1457 10433265
+ip 299 970 8094598
+com 135 1019 7705949
+iad1 14 14 267876
+ua 11 11 148603
+it 9 9 41505
+de 8 10 180377
+au 5 5 22924
+sjdc 4 4 76536
+jp 1 1 4445
+br 1 1 19156
+org 1 1 19134
+lt 1 1 19134
+in 1 10 61757
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 30
+wordpress 820 172200 20130228233557 0
+mj12bot 608 8832697 20130226223135 105
+googlebot 552 2229027 20130228231025 54
+bot[+:,\.\;\/\\-] 456 3597696 20130228203450 111
+msnbot 366 1758530 20130228103430 38
+bspider 301 1485014 20130228214214 37
+[+:,\.\;\/\\-]bot 263 2740817 20130228230939 130
+crawl 250 5163017 20130225062401 9
+yandex 242 817645 20130228175416 62
+baiduspider 162 786213 20130228231719 0
+commons\-httpclient 58 688779 20130228135421 0
+no_user_agent 9 175741 20130227223355 0
+exabot 23 53984 20130228113821 12
+blogsearch 23 101982 20130227170348 0
+ia_archiver 5 17618 20130226110639 4
+spider 138 1011676 20130228233555 8
+seznambot 7 12674 20130222223019 5
+findlinks 13 133110 20130228144033 6
+mail\.ru 12 51606 20130228130824 8
+unknown 22 8941 20130228013327 22
+slurp 141 950966 20130226120240 0
+robot 100 515599 20130226143023 10
+surveybot 4 11102 20130221160427 2
+legs 2 5628 20130201101124 1
+yodaobot 18 93078 20130212144217 0
+cfnetwork 4 76542 20130218135208 0
+turnitinbot 21 117147 20130204131222 1
+sogou 64 230742 20130228061830 21
+msnbot\-media 97 436424 20130228175928 48
+nutch 7 17194 20130217203525 4
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+css 345 1016556 0 0
+png 892 4275286 0 0
+otf 30 1884001 0 0
+php 390 1897318 0 0
+html 506 6554448 0 0
+xml 1 1314 0 0
+js 475 3608470 0 0
+jpg 353 7387075 0 0
+gz 2 1333 0 0
+gif 519 469458 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 14
+winlong 416
+winxp 594
+win2000 2
+winnt 6
+linuxubuntu 10
+linux 415
+winvista 174
+winme 2
+macosx 363
+winunknown 1
+win2003 54
+linuxdebian 1
+Unknown 26
+win2008 1449
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 33
+msie6.0 314
+firefox15.0 1
+firefox4.0.1 2
+chrome 864
+firefox18.0 351
+lynx 1
+msie8.0 401
+firefox6.0.2 3
+msie7.0 223
+firefox16.0 46
+firefox9.0.1 1
+firefox3.6.9 1
+msie5.0 1
+msie9.0 539
+Unknown 22
+firefox20.6.14 224
+firefox11.0 4
+firefox17.0 7
+firefox3.0.17 10
+opera 17
+firefox2.0.0.6 3
+firefox7.0.1 10
+msie4.0 2
+firefox1.0 1
+mozilla 2
+firefox14.0.1 49
+firefox5.0.1 1
+msie9 2
+firefox19.0 53
+firefox8.0.1 39
+safari 310
+firefox3.6.8 8
+firefox16.0.1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+linkdex.com/v2.0 20130213222929
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20130201224755
+MSIE9 20130204184409
+EventMachine_HttpClient 20130215040839
+Mozilla/5.0_(Windows;_U;_Win9x;_en;_Stable)_Gecko/20020911_Beonex/0.8.1-stable 20130223072529
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20130214182431
+Google-Site-Verification/1.0 20130218235449
+myass 20130206182533
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20130214182431
+Google-Site-Verification/1.0 20130218235449
+myass 20130206182533
+linkdex.com/v2.0 20130213222929
+EventMachine_HttpClient 20130215040839
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 405 507
+From1 0 0
+From2 20 27
+From3 19 19
+From4 484 2960
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google 19 25
+baidu 1 1
+sogou 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://www.serchen.com/profile/promo.aspx 11 11
+http://www.finddotcom.com 2 2
+http://www.facebook.com/l.php 1 1
+http://angleadvisors.com 1 1
+http://evuln.com/tools/malware-scanner/mejoinc.com:80/ 1 1
+http://www.physiciansdatallc.com 1 1
+http://www.angleadvisors.com 1 1
+http://www.angleadvisors.com/who-we-are/firm-principals/cliff_roesler.html 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 11
+joseph+caspersen 1
+software+development+companies+michigan 1
+corban+dental+supply 1
+www.mejoinc.com+linkedin 1
+incorporated+business 1
+mobile+app+development+companies+in+michigan 1
+dns+server+expansion 1
+angle+advisors+logo 1
+software+wallpapers+finder 1
+wallpapers+finder+software 1
+nerve+root+and+peripheral+nerves+chart 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 30
+software 3
+companies 2
+finder 2
+wallpapers 2
+development 2
+michigan 2
+caspersen 1
+chart 1
+dns 1
+linkedin 1
+mobile 1
+nerve 1
+joseph 1
+in 1
+business 1
+root 1
+server 1
+incorporated 1
+expansion 1
+app 1
+peripheral 1
+advisors 1
+angle 1
+supply 1
+nerves 1
+logo 1
+corban 1
+dental 1
+and 1
+www.mejoinc.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 14 6910
+302 128 62532
+206 7 100422
+500 319 1548284
+404 619 3553881
+301 969 401162
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 258
+/wp-content/themes/onyx/thumb.php 1 -
+/services/web-design-development/.google-analytics.com/ga.js 1 -
+/wp-content/themes/foliostudio-v2/fancybox/.fancy-bg 1 -
+/services/web-applications/text/javascript 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+(f.fn.jquery+Math.random()).replace(/D/g, 1 -
+/wp-content/themes/Linepress/thumb.php 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).replace(r, 1 -
+/services/.google-analytics.com/ga.js 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&(d=c.shift()),d&&(b=== 1 -
+/portfolio/.google-analytics.com/ga.js 1 -
+/wp-content/themes/foliostudio-v2/themify/js/)+b.replace(z, 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&e.getAttributeNode( 1 -
+/www.twitter.com/mejoinc 3 -
+/services/web-hosting/text/javascript 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&!a&&g&&g.charAt(0)=== 1 -
+/wp-content/themes/foliostudio-v2/fancybox/resize.fb 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&f.nodeName(a, 1 -
+/February/2011/ 4 -
+/services/web-applications/.google-analytics.com/ga.js 1 -
+/wp-content/themes/foliostudio-v2/js/li.login 1 -
+/about/text/javascript 1 -
+/2010/04/12/wallpaper-finder-available-now-on-itunes/text/javascript 1 -
+/wp-content/themes/impacto/thumb.php 1 -
+/wp-content/themes/foliostudio-v2/themify/js/)._fireEvent( 1 -
+/2010/09/19/air-monitors-inc-s-new-website-has-launched/text/javascript 1 -
+/services/text/javascript 1 -
+/wp-content/themes/foliostudio-v2/images/search-field-bg.gif 5 http://www.mejoinc.com/wp-content/themes/foliostudio-v2/style.css
+/wp-content/themes/foliostudio-v2/themify/js/),c.async= 1 -
+/wp-content/themes/foliostudio-v2/themify/js/))f.event.add(this, 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,B,!1),a.addEventListener( 1 -
+/tag/development/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/) 5 -
+/frameset 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&(c.detachEvent( 1 -
+/September/2010/ 5 -
+/author/joec/text/javascript 1 -
+/document.body.clientHeight/2 1 -
+/portfolios/mobile-applications/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/skins/blue/A.style.css.pagespeed.cf.H_eQ9zWrKA.css 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+g.className+ 1 -
+/wp-content/themes/foliostudio-v2/js/).replace(/ 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+n.version+ 1 -
+/September/2011/ 6 -
+/wp-content/themes/caffeinated/thumb.php 1 -
+/text/css 1 -
+/portfolios/complex-solutions/http:/www.twitter.com/mejoinc 1 -
+/portfolios/web-design-and-development/norms-field-of-dreams/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/js/ 10 -
+/wp-content/themes/foliostudio-v2/js/) 4 -
+/wp-content/themes/foliostudio-v2/fancybox/.fancybox-inline-tmp 1 -
+/wp-content/themes/foliostudio-v2/js/div.examples 1 -
+/wp-content/themes/foliostudio-v2/themify/js/)&&!D.call(a.constructor.prototype, 1 -
+/BingSiteAuth.xml 3 -
+/wp-content/themes/foliostudio-v2/themify/js/+m.join( 1 -
+/wp-content/uploads/_custom_post_image/249-1287680652-thumb.pngamp 1 -
+/wp-content/themes/DelicateNews/thumb.php 1 -
+/g, 1 -
+/tag/web-sites-2/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/pendulum/thumb.php 1 -
+/2011/08/24/dns-serve-expansion/http:/www.twitter.com/mejoinc 1 -
+/support/ 4 -
+/wp-content/themes/foliostudio-v2/fancybox/click.fb 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&a.firstChild.getAttribute( 1 -
+/about/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/)&&e.error( 1 -
+/wp-content/themes/foliostudio-v2/js/.login-dd 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).unbind( 1 -
+/portfolios/complex-solutions/text/javascript 1 -
+/multipart/form-data 1 -
+/wp-content/themes/foliostudio-v2/themify/js/)),i=a.getElementsByTagName( 1 -
+/2011/08/24/dns-serve-expansion/.google-analytics.com/ga.js 1 -
+/wp-content/themes/foliostudio-v2/js/,w) 1 -
+/document.documentElement.clientHeight/2 1 -
+/category/smartphone-applications/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/rt_juxta_wp/thumb.php 1 -
+/February/2011 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+w.id()+ 1 -
+/tag/upgrades/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/diner/thumb.php 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).replace(n, 1 -
+/2011/08/10/norms-field-of-dreams-site-launched/text/javascript 1 -
+/contact/http:/www.twitter.com/mejoinc 1 -
+/August/2011/ 5 -
+/about-us/ 1 -
+/category/design-2/http:/www.twitter.com/mejoinc 1 -
+/portfolios/mobile-applications/nervewhiz/http:/www.twitter.com/mejoinc 1 -
+/services/web-hosting/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).replace(k, 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+(f.tagName== 1 -
+/June/2010/ 4 -
+/services/mobile-applications/text/javascript 1 -
+/contact/text/javascript 1 -
+/portfolio/text/javascript 1 -
+/wp-content/themes/plombier5/thumb.php 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&c.unshift( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,i.setAttribute( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&!j.test(b)&&(b=b.toLowerCase(),e=b,g=t),g( 1 -
+/tag/releases/text/javascript 1 -
+/wp-content/themes/foliostudio-v2/js/+D.d+ 1 -
+/services/web-design-development/text/javascript 1 -
+/wp-content/themes/Lumin/thumb.php 1 -
+/apple-touch-icon.png 2 -
+/portfolios/web-design-and-development/crookston-audio/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/),g=I(d),(c.type!== 1 -
+/wp-content/themes/foliostudio-v2/color-schemes/style.css 166 http://www.mejoinc.com/
+/wp-content/themes/foliostudio-v2/themify/js/&&a.getAttributeNode( 1 -
+/application/x-shockwave-flash 1 -
+/wp-content/themes/snapshot/thumb.php 1 -
+/portfolios/web-design-and-development/norms-field-of-dreams/text/javascript 1 -
+/wp-content/themes/apz/thumb.php 1 -
+/April/2010/ 5 -
+/May/2010/ 5 -
+/wp-content/themes/PureType/thumb.php 1 -
+/apple-touch-icon-precomposed.png 2 -
+/portfolios/mobile-applications/nervewhiz/page/image 1 -
+/wp-content/themes/PersonalPress/thumb.php 1 -
+/wp-content/themes/foliostudio-v2/themify/js/)this.className&&f._data(this, 1 -
+/wp-content/themes/foliostudio-v2/themify/js/$f.fireEvent 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).replace(A, 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,j.style.marginRight= 1 -
+/wp-content/themes/foliostudio-v2/themify/js/),b=c.documentElement,d,e,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+this 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+o.width+ 1 -
+/blog/+++++++++++++++++++++++++++++++++++++++++++++++++++++Result:+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8 1 http://www.mejoinc.com/blog/+++++++++++++++++++++++++++++++++++++++++++++++++++++Result:+%ED%E5+%ED%E0%F8%EB%EE%F1%FC+%F4%EE%F0%EC%FB+%E4%EB%FF+%EE%F2%EF%F0%E0%E2%EA%E8
+/wp-content/themes/foliostudio-v2/themify/js/+h.className+ 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+f.map(m.slice(0).sort(),C).join( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/),a.appendChild(i),l=c.createDocumentFragment(),l.appendChild(a.firstChild),k.checkClone=l.cloneNode(!0).cloneNode(!0).lastChild.checked,a.innerHTML= 1 -
+/wp-content/themes/elefolio/thumb.php 1 -
+/wp-content/themes/Modest/thumb.php 1 -
+/services/mobile-applications/.google-analytics.com/ga.js 1 -
+/portfolios/mobile-applications/nervewhiz/width/height 1 -
+/blog/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,m=c.getElementsByTagName( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/),h=g.appendChild(c.createElement( 1 -
+/2010/09/19/air-monitors-inc-s-new-website-has-launched/http:/www.twitter.com/mejoinc 1 -
+/2011/02/24/hail-to-the-victors/text/javascript 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+a.namespace.split( 1 -
+/trafficbasedsspsitemap.xml 2 -
+/September/2011 1 -
+/author/mattm/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/)&&f(b).closest( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&c.charAt(0)=== 1 -
+/www.facebook.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/fancybox/keydown.fb 1 -
+/wp-content/themes/foliostudio-v2/themify/js/),k.radioValue=i.value=== 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,B),a.attachEvent( 1 -
+/portfolios/mobile-applications/nervewhiz/.google-analytics.com/ga.js 1 -
+/wp-content/themes/foliostudio-v2/js/text/css 1 -
+/2011/09/07/mydesignerdental-com-launched/.google-analytics.com/ga.js 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,d),f.data(this,a,c),b.triggerHandler( 1 -
+/services/web-hosting/.google-analytics.com/ga.js 1 -
+/portfolios/complex-solutions/corban-dental-supply/http:/www.twitter.com/mejoinc 1 -
+/portfolios/mydesignerdental-com 1 -
+/tag/air-monitors-inc/http:/www.twitter.com/mejoinc 1 -
+/tag/releases/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).length&&a.keyCode===13&&K( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&(f.nodeName(a, 1 -
+/wp-content/themes/foliostudio-v2/themify/js/ 3 -
+/about/.google-analytics.com/ga.js 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,a.innerHTML= 1 -
+/www.linkedin.com/in/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).replace(l, 1 -
+/and/or 1 -
+/2010/09/21/birch-reality-inc-and-mejo-inc-launch-custom-tailored-water-and-sewer-billing-web-application/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/nuance/functions/jwpanel/scripts/valums_uploader/php.php 1 -
+/wp-content/themes/foliostudio-v2/themify/js/)&&f._data(d, 1 -
+/LiveSearchSiteAuth.xml 3 -
+/wp-content/themes/foliostudio-v2/themify/js/,q=a.getElementsByTagName( 1 -
+/2010/06/20/angle-advisors-website-is-now-live/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,k.shrinkWrapBlocks=a.offsetWidth!==2),a.innerHTML= 1 -
+/wp-content/themes/foliostudio-v2/fancybox/scroll.fb 1 -
+/category/design-2/text/javascript 1 -
+/tag/dns/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/fancybox/mousewheel.fb 1 -
+/portfolios/mydesignerdental-com/ 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).replace(be, 1 -
+/portfolios/mobile-applications/nervewhiz/text/javascript 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).replace(q, 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+o.id+ 1 -
+/wp-content/themes/foliostudio-v2/themify/js/.split( 1 -
+/wp-content/themes/comfy%20pro/thumb.php 1 -
+/category/iphone-apps/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/),j.style.width= 1 -
+/wp-content/themes/foliostudio-v2/js/.blink 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).split( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+e.className+ 1 -
+/2010/05/07/wallpaper-finder-version-1-0-2-now-available-on-itunes/text/javascript 1 -
+/2011/08/19/nervewhiz-released/text/javascript 1 -
+/tag/updates/http:/www.twitter.com/mejoinc 1 -
+/category/clients-2/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/eVid/thumb.php 1 -
+/portfolio/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,c.defaultView&&c.defaultView.getComputedStyle&&(j=c.createElement( 1 -
+/portfolios/web-design-and-development/text/javascript 1 -
+/wp-content/themes/royalle/thumb.php 1 -
+/wp-content/themes/vibrantcms/thumb.php 1 -
+/.google-analytics.com/ga.js 1 -
+/wp-content/themes/foliostudio-v2/themify/js/)),i=c.createElement( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&(d+=parseFloat(f.css(a, 1 -
+/category/development-2/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/),i.value= 1 -
+/blog/.google-analytics.com/ga.js 1 -
+/category/development-2/text/javascript 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,d=a.getElementsByTagName( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/),ci.close() 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).replace(/'/g,' 1 -
+/wp-content/themes/foliostudio-v2/themify/js/)),a.getElementsByTagName( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).length&&K( 1 -
+/tag/angle-advisors/text/javascript 1 -
+/wp-content/themes/eNews/thumb.php 1 -
+/2011/08/19/nervewhiz-released/http:/www.twitter.com/mejoinc 1 -
+/services/web-design-development/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/),a.innerHTML= 1 -
+/blog/text/javascript 1 -
+/http:/www.twitter.com/mejoinc 2 -
+/wp-content/themes/foliostudio-v2/js/+T 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).join( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+b))() 1 -
+/wp-content/themes/foliostudio-v2/themify/js/),l=n.shift(),h.namespace=n.slice(0).sort().join( 1 -
+/author/mattm/text/javascript 1 -
+/wp-content/themes/editorial/thumb.php 1 -
+/myadmin/scripts/setup.php 1 http://MEJOINC.COM/myadmin/scripts/setup.php
+/www.physicansdatallc.com 1 -
+/category/wallpaper-finder/http:/www.twitter.com/mejoinc 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,i=f.data(a,e,b,!0) 1 -
+/tag/development/text/javascript 1 -
+/**/ 1 -
+/wp-content/themes/foliostudio-v2/js/),E.get( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,a.style.zoom=1,k.inlineBlockNeedsLayout=a.offsetWidth===2,a.style.display= 1 -
+/text/javascript 1 -
+/wp-content/themes/foliostudio-v2/themify/js/&&a.type!== 1 -
+/portfolios/web-design-and-development/air-monitors-inc/text/javascript 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,F.call(arguments).join( 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).replace(i, 1 -
+/wp-content/themes/foliostudio-v2/themify/js/+c.replace(j, 1 -
+/phpmyadmin/scripts/setup.php 1 http://MEJOINC.COM/phpmyadmin/scripts/setup.php
+/wp-content/themes/boast/thumb.php 1 -
+/wp-content/themes/foliostudio-v2/js/Arial_400-Arial_700-Arial_italic_400-Arial_italic_700.font.js 132 http://www.mejoinc.com/
+/2011/09/07/mydesignerdental-com-launched/text/javascript 1 -
+/September/2010 1 -
+/apps/ 3 -
+/portfolios/web-design-and-development/angle-advisors/text/javascript 1 -
+/tag/mejo-inc/text/javascript 1 -
+/wp-content/themes/Boutique/thumb.php 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,a.style.width=a.style.paddingLeft= 1 -
+/portfolios/web-design-and-development/norms-field-of-dreams/.google-analytics.com/ga.js 1 -
+/2011/08/24/dns-serve-expansion/text/javascript 1 -
+/wp-content/themes/foliostudio-v2/themify/js/).length===1)return 1 -
+/wp-content/themes/foliostudio-v2/fancybox/.fancy-ico 1 -
+/wp-content/themes/foliostudio-v2/themify/js/,f=b.nodeType 1 -
+/wp-content/themes/foliostudio-v2/js/))) 1 -
+/wp-content/plugins/ripe-hd-player/config.php 2 -
+/wp-content/themes/foliostudio-v2/themify/js/+m.replace( 1 -
+/tag/clients/http:/www.twitter.com/mejoinc 1 -
+/portfolios/complex-solutions/quality-for-less-inc/text/javascript 1 -
+/2010/06/20/angle-advisors-website-is-now-live/text/javascript 1 -
+/2010/09/21/birch-reality-inc-and-mejo-inc-launch-custom-tailored-water-and-sewer-billing-web-application/text/javascript 1 -
+/wp-content/themes/Magnificent/thumb.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 195
+static-acs-24-154-128-155.zoominternet.net 224 224 1002858 20130205013440
+188.143.233.150 63 63 279531 20130226101314
+99-112-143-10.lightspeed.irvnca.sbcglobal.net 60 60 1234200 20130213063404
+174.127.133.56 28 30 162117 20130208085337
+174.127.133.58 28 31 202285 20130208085235
+ec2-23-22-190-22.compute-1.amazonaws.com 18 18 370260 20130212102921
+174.127.133.60 13 13 74959 20130208085215
+69.58.178.58 12 12 230087 20130212002610
+24.192.59.111 11 119 917269 20130228103115
+199.59.58.90 10 10 249400 20130228192802
+206-225-82-122.dedicated.codero.net 1 1 4809 20130210211726
+c-76-112-98-189.hsd1.mi.comcast.net 0 1 31706 
+static-ip-199-189-87-151.inaddr.ip-pool.com 1 1 5190 20130211061756
+ec2-50-16-130-78.compute-1.amazonaws.com 1 1 5783 20130214083510
+206-225-84-190.dedicated.codero.net 1 1 4809 20130208215600
+wtp-g8-maya6.iad1 5 5 95670 20130224222644
+c-98-209-21-40.hsd1.mi.comcast.net 0 2 42340 
+78-6-228-32-static.albacom.net 5 5 23052 20130226191450
+41.189.33.138 1 1 19175 20130224122922
+192.162.19.194 2 2 49384 20130221112601
+static.104.16.9.5.clients.your-server.de 1 1 19156 20130207115342
+66.249.82.36 7 116 686045 20130218144444
+65.49.68.172 3 49 248299 20130214214026
+91.187.98.68 3 47 413217 20130201044338
+ks313868.kimsufi.com 2 2 38426 20130215173855
+178-137-161-221-lvv.broadband.kyivstar.net 1 1 19134 20130228193519
+173.252.103.5 1 1 7736 20130214182431
+216-55-181-145.dedicated.codero.net 1 1 5190 20130203043243
+cpe-76-187-75-116.tx.res.rr.com 9 104 686313 20130204112229
+182.185.70.148 3 80 484896 20130217060112
+180.76.5.167 1 1 1333 20130219033212
+marketing.serchen.com 6 102 855388 20130227170523
+193.105.210.216 2 2 49384 20130205202643
+216-55-176-177.dedicated.codero.net 1 1 5190 20130210211724
+178.33.178.14 4 4 66835 20130212023622
+1-36-173-147.static.netvigator.com 1 1 19134 20130205190054
+ec2-23-20-43-20.compute-1.amazonaws.com 3 3 5558 20130202042920
+ec2-54-234-150-74.compute-1.amazonaws.com 2 2 4364 20130202042735
+111-243-216-183.dynamic.hinet.net 1 1 24761 20130215191654
+206-225-94-92.dedicated.codero.net 2 2 9999 20130220080935
+216-105-59-2.sfld.grid4.com 0 1 21170 
+28.sub-70-192-70.myvzw.com 5 67 470021 20130214160421
+206-225-92-182.dedicated.codero.net 2 2 10290 20130208215556
+216-55-137-51.dedicated.codero.net 2 2 10200 20130206205012
+66-87-93-139.pools.spcsdns.net 4 65 349371 20130208211157
+246.sub-70-196-196.myvzw.com 3 52 439371 20130208192511
+216-55-176-94.dedicated.codero.net 2 2 10011 20130208215601
+206-225-86-37.dedicated.codero.net 1 1 5190 20130220080859
+d14-69-239-125.try.wideopenwest.com 4 53 444210 20130226110656
+176.31.14.30 3 3 52489 20130225191724
+206-225-84-66.dedicated.codero.net 1 1 4911 20130203043247
+wsip-98-172-7-210.fv.ks.cox.net 2 63 385134 20130228191233
+msnbot-131-253-38-67.search.msn.com 3 3 57582 20130221100414
+206-225-85-162.dedicated.codero.net 1 1 5100 20130210211727
+178-172.users.icservice.net.ua 1 1 19175 20130204162031
+smtp41.networkro.com 6 6 149640 20130228030634
+50.55.37.142 0 1 35157 
+150-70-64-208.trendmicro.com 2 2 38268 20130228192244
+static.204.111.9.176.clients.your-server.de 2 2 38312 20130212201556
+ec2-23-23-19-18.compute-1.amazonaws.com 1 1 5228 20130213222929
+82-117-234-78.gpon.sta.kh.velton.ua 5 5 22900 20130223072529
+50.28.77.18 3 3 15826 20130220201312
+38.100.21.62 10 10 200130 20130218104208
+201-11-141-59.pvoce701.dsl.brasiltelecom.net.br 1 1 19156 20130204135951
+c-24-20-0-228.hsd1.or.comcast.net 3 67 423099 20130228193552
+ec2-23-20-131-182.compute-1.amazonaws.com 1 1 19175 20130215040839
+139.red-80-35-80.staticip.rima-tde.net 5 5 23052 20130215234921
+cl-78-158-11-226.fastlink.lt 1 1 19134 20130201224755
+msnbot-65-55-213-33.search.msn.com 1 10 60028 20130220105258
+206-225-83-83.dedicated.codero.net 3 3 16537 20130215192948
+111-243-239-141.dynamic.hinet.net 2 2 49522 20130210163651
+wtp-g8-maya1.iad1 6 6 114804 20130225215755
+abs-static-66.194.102.118.aircel.co.in 1 10 61757 20130228084126
+server210.webhostingpad.com 1 1 4445 20130206182533
+msnbot-65-55-215-234.search.msn.com 2 16 89952 20130219124511
+c-69-181-232-64.hsd1.ca.comcast.net 4 54 441502 20130226203627
+99-19-68-195.lightspeed.anarmi.sbcglobal.net 0 1 21170 
+ec2-54-234-95-72.compute-1.amazonaws.com 2 2 45460 20130203212151
+206-225-83-215.dedicated.codero.net 3 3 15189 20130206205006
+msnbot-65-55-213-61.search.msn.com 2 16 88741 20130214074324
+111-243-212-59.dynamic.hinet.net 2 2 49522 20130220165849
+host80-198-static.227-95-b.business.telecomitalia.it 4 4 18453 20130213004548
+msnbot-65-55-215-255.search.msn.com 2 16 88624 20130214212522
+174.127.132.10 1 1 19156 20130204182506
+173.227.230.236 3 4 105318 20130214214309
+iad1-wtp-gd-maya7.sdi.trendnet.org 1 1 19134 20130226182949
+216-55-161-211.dedicated.codero.net 1 1 5190 20130210211723
+c-24-128-227-186.hsd1.ma.comcast.net 2 64 386080 20130209192323
+ec2-174-129-124-43.compute-1.amazonaws.com 2 2 10456 20130213202721
+b5hsbo.rulespace.com 1 2 67006 20130208000353
+msnbot-65-55-213-40.search.msn.com 2 16 88766 20130218110307
+18.6.207.91.unknown.steephost.net 1 1 19134 20130208142744
+124.115.11.187 1 12 78762 20130220085653
+50-81-111-5.client.mchsi.com 2 63 385134 20130213185234
+91.231.40.28 5 5 117902 20130226103803
+85.red-79-148-238.staticip.rima-tde.net 10 10 46332 20130215234531
+208.90.57.196 2 2 36554 20130203145712
+203-206-167-242.perm.iinet.net.au 5 5 22924 20130224061759
+216-55-161-64.dedicated.codero.net 1 1 4910 20130220080939
+c-71-205-142-219.hsd1.mi.comcast.net 6 65 468927 20130214182502
+206-225-84-218.dedicated.codero.net 1 1 5190 20130208215558
+212.183.128.72 3 57 445354 20130207185617
+220.181.51.108 0 2 97414 
+168.62.169.221 2 2 51160 20130208083242
+91.231.40.53 1 1 19134 20130222112123
+192.162.19.193 2 2 49384 20130205214658
+91.231.40.54 3 3 87421 20130225122832
+178-137-93-165-lvv.broadband.kyivstar.net 1 1 19134 20130204032313
+216-55-181-210.dedicated.codero.net 1 1 5190 20130202053644
+216-55-169-224.dedicated.codero.net 1 1 4911 20130208215559
+173.252.100.118 1 1 382 20130214182428
+p3e9e82ac.dip0.t-ipconnect.de 1 3 58733 20130219045201
+ns2.advancedns.net 3 3 15513 20130211221203
+150-70-64-214.trendmicro.com 5 5 95670 20130216095330
+ip98-161-51-35.om.om.cox.net 3 67 423100 20130212193734
+216-55-176-132.dedicated.codero.net 1 1 5190 20130208215557
+182.185.33.54 1 1 6579 20130217055825
+206-225-82-23.dedicated.codero.net 1 1 4911 20130210211725
+msnbot-65-55-213-38.search.msn.com 2 16 88352 20130219142345
+123.125.67.158 1 1 5190 20130226190804
+174.127.133.54 4 7 62061 20130208083207
+adsl-99-124-142-253.dsl.sfldmi.sbcglobal.net 0 1 21170 
+lan.itsix.com 5 69 460748 20130205053041
+180.76.6.213 1 1 0 20130228063541
+lastitem.bidzhealth.com 2 2 13047 20130219155932
+91.231.40.27 2 2 49384 20130206031630
+host159-124-static.14-79-b.business.telecomitalia.it 5 5 23052 20130215234848
+102.61.87.79.rev.sfr.net 3 36 228057 20130224151421
+139.62.86.73 0 1 21170 
+c-75-64-23-105.hsd1.tn.comcast.net 2 63 385133 20130220135354
+lech8-8im.pool7.aramenet.com 1 1 19175 20130205020119
+ec2-54-243-14-215.compute-1.amazonaws.com 3 3 11403 20130202042331
+rrcs-184-74-111-128.nys.biz.rr.com 2 70 388585 20130212154010
+173.227.230.232 2 2 38312 20130208000358
+66-226-72-105.dedicated.codero.net 1 1 4911 20130206205008
+94-153-8-93-lvv.broadband.kyivstar.net 1 1 19134 20130212073832
+lech2-8im.pool7.aramenet.com 1 1 19175 20130207085244
+nc-184-2-48-241.dhcp.embarqhsd.net 3 66 393918 20130207182831
+66.249.85.105 1 15 82055 20130218111353
+msnbot-131-253-24-54.search.msn.com 2 16 89334 20130219022126
+201.141.202.102 1 1 19212 20130204184409
+sol-fttb.196.124.119.46.sovam.net.ua 1 1 19134 20130207114234
+193.105.210.217 6 6 148152 20130228122417
+mail.allshoreresources.com 3 52 439371 20130205100425
+reverse.3.80.119.75.static.ldmi.com 9 89 596386 20130206133158
+107.sub-70-192-237.myvzw.com 3 52 439371 20130205222258
+static.104.113.9.5.clients.your-server.de 2 2 15220 20130221225428
+wtp-gs-maya6.sjdc 1 1 19134 20130210193331
+150.70.75.38 3 3 57402 20130218153553
+111-243-234-103.dynamic.hinet.net 4 4 99044 20130205075252
+ip-50-63-177-194.ip.secureserver.net 8 8 152313 20130209014720
+ec2-23-20-251-119.compute-1.amazonaws.com 1 1 22730 20130203213506
+61.8.133.153 7 105 883982 20130207162752
+225.25.57.37.triolan.net 1 1 3510 20130213070730
+206-225-85-25.dedicated.codero.net 1 1 5190 20130201211513
+50-8-252-145.sfo.clearwire-wmx.net 2 63 385133 20130213153825
+c-68-41-203-71.hsd1.mi.comcast.net 6 82 611359 20130219020139
+ec2-54-242-144-110.compute-1.amazonaws.com 2 2 3712 20130202042904
+c-71-226-110-49.hsd1.sc.comcast.net 0 1 35157 
+174.127.133.59 7 15 78952 20130208083143
+206-225-84-242.dedicated.codero.net 1 1 5190 20130201211514
+ool-182f5278.dyn.optonline.net 2 64 385627 20130228180216
+64-233-233-172.static.try.wideopenwest.com 3 9 10996 20130201101550
+216-55-177-144.dedicated.codero.net 1 1 4809 20130206205010
+216-55-162-33.dedicated.codero.net 1 1 4809 20130203043248
+249.red-80-25-95.staticip.rima-tde.net 5 5 23052 20130208030857
+192.162.19.195 10 10 245630 20130204050255
+66-226-76-216.dedicated.codero.net 1 1 5190 20130206205003
+rate-limited-proxy-72-14-199-80.google.com 1 1 5228 20130218235449
+220.181.51.102 0 1 48707 
+123.125.67.207 0 1 48707 
+9.net059086113.t-com.ne.jp 1 1 4445 20130201140734
+174.127.133.55 9 13 63726 20130208083117
+pro1132.startdedicated.com 1 1 15490 20130226224038
+216-55-161-149.dedicated.codero.net 1 1 5190 20130206205001
+216-55-170-28.dedicated.codero.net 4 4 20400 20130220080942
+lech3-8im.pool7.aramenet.com 1 1 19175 20130202131524
+173-165-26-189-illinois.hfc.comcastbusiness.net 4 58 455375 20130214182400
+h69-21-65-74.plmomi.dedicated.static.tds.net 6 79 618779 20130210150917
+bzq-114-71-13.static.bezeqint.net 3 3 15135 20130204040527
+216-55-183-203.dedicated.codero.net 1 1 5190 20130201211511
+76-243-104-38.lightspeed.livnmi.sbcglobal.net 7 116 892991 20130220125223
+218.30.103.96 0 1 4475 
+sol-fttb.132.116.118.46.sovam.net.ua 1 1 19134 20130203112054
+cpe-72-226-2-201.nycap.res.rr.com 2 63 385133 20130226172435
+208.88.226.73 6 6 1746 20130227230243
+ool-4357d63b.dyn.optonline.net 2 2 5939 20130215190719
+wtp-gd-maya1.iad1 3 3 57402 20130227103821
+82.193.109.52.ipnet.kiev.ua 2 2 49126 20130210213627
+61.8.133.150 3 52 439375 20130208091140
+static.57.244.40.188.clients.your-server.de 2 2 48956 20130218180934
+lech4-8im.pool7.aramenet.com 1 1 19175 20130211080503
+wtp-g3-maya7.sjdc 3 3 57402 20130224180245
+124.115.1.60 3 36 236286 20130227010540
+sol-fttb.78.112.118.46.sovam.net.ua 1 1 19134 20130204043453
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20130201 24 74 688944 18
+20130202 18 65 548900 10
+20130203 32 32 354962 17
+20130204 38 133 960838 12
+20130205 250 425 2781797 15
+20130206 21 101 749698 12
+20130207 35 250 1860876 9
+20130208 126 355 2628025 24
+20130209 25 88 609423 3
+20130210 22 95 848658 15
+20130211 4 4 48670 4
+20130212 47 180 1658875 15
+20130213 69 191 1978968 10
+20130214 30 291 2037124 12
+20130215 31 127 845576 12
+20130216 1 1 19134 1
+20130217 4 81 491475 2
+20130218 18 66 600467 7
+20130219 17 137 952401 8
+20130220 23 164 1186693 13
+20130221 7 7 133201 5
+20130222 2 2 38268 2
+20130223 9 9 105302 5
+20130224 11 44 308424 5
+20130225 18 95 884414 8
+20130226 21 183 1484946 9
+20130227 6 65 525881 4
+20130228 19 248 1763319 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 2
+5mn-15mn 5
+15mn-30mn 4
+2mn-5mn 6
+30s-2mn 24
+0s-30s 228
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 76
+/wp-login.php 334 1497606 18 18
+/ 187 2524472 144 93
+/contact/ 53 1002228 2 13
+/wp-content/themes/foliostudio-v2/themify/img.php 52 379367 3 18
+/wp-content/themes/foliostudio-v2/MuseoSans_500.otf 30 1884001 0 14
+/2011/08/19/nervewhiz-released/ 26 551390 13 12
+/2010/09/19/air-monitors-inc-s-new-website-has-launched/ 19 418136 17 16
+/about/ 18 156632 2 4
+/2011/09/07/mydesignerdental-com-launched/ 17 345413 6 6
+/portfolio/ 15 102330 3 5
+/services/mobile-applications/ 11 63807 5 8
+/tag/updates/ 1 5732 0 0
+/tag/wallpaper-finder-2/ 1 5777 0 0
+/tag/air-monitors-inc/ 1 5756 0 0
+/2011/08/24/dns-serve-expansion/ 7 81646 2 3
+/category/clients-2/ 1 6255 0 0
+/feed/ 2 23826 0 1
+/portfolios/mobile-applications/ 2 8812 0 1
+/services/ 11 64928 5 6
+/feed/atom/ 3 68190 3 3
+/tag/dns/ 1 5679 0 0
+/comments/feed/ 1 1128 0 0
+/xmlrpc.php 3 1170 0 0
+/tag/iphone/feed/ 1 1855 0 0
+/category/smartphone-applications/ 1 6022 0 0
+/2010/05/07/wallpaper-finder-version-1-0-2-now-available-on-itunes/ 2 12650 0 0
+/tag/web-hosting/ 1 5687 0 0
+/portfolios/web-applications/poseidon/ 1 4508 0 0
+/portfolios/complex-solutions/ 2 8830 0 0
+//index.php 1 19175 1 1
+/author/mattm/ 1 6396 0 0
+/category/smartphone-applications/feed/ 1 2509 1 0
+/portfolios/web-applications/ 1 4266 0 0
+/portfolios/mobile-applications/nervewhiz/ 7 39724 4 3
+/tag/wallpaper-finder-2/feed/ 1 1855 0 1
+/2010/09/21/birch-reality-inc-and-mejo-inc-launch-custom-tailored-water-and-sewer-billing-web-application/ 4 64232 1 1
+/2011/08/24/dns-serve-expansion/feed/ 1 861 0 0
+/category/web-applications/ 1 5807 0 0
+/author/mattm/feed/ 1 4319 1 0
+/tag/app/ 1 5778 0 0
+/portfolios/web-design-and-development/physicians-data/ 2 20181 1 1
+/tag/itunes/ 1 5777 0 0
+/2010/06/20/angle-advisors-website-is-now-live/ 14 255558 7 8
+/tag/web-sites-2/ 1 5881 0 0
+/portfolios/web-design-and-development/norms-field-of-dreams/ 7 60490 0 3
+/tag/releases/ 1 5783 0 0
+/2011/02/24/hail-to-the-victors/ 4 25459 2 1
+/tag/releases/feed/ 1 1853 1 0
+/category/wallpaper-finder/feed/ 1 1856 0 1
+/category/android-apps/ 1 5744 0 0
+/blog/ 11 183831 2 6
+/category/iphone-apps/feed/ 1 1859 0 1
+/portfolios/complex-solutions/corban-dental-supply/ 3 15997 2 0
+/tag/iphone/ 1 5782 0 0
+/2010/04/12/wallpaper-finder-available-now-on-itunes/ 2 13044 0 0
+/category/iphone-apps/ 1 5803 0 0
+/services/web-design-development/ 5 46059 1 1
+/category/wallpaper-finder/ 1 5799 0 0
+/2011/09/07/mydesignerdental-com-launched/feed/ 1 1131 0 0
+/tag/upgrades/ 1 5684 0 0
+/category/web-sites/ 1 6097 0 0
+/portfolios/complex-solutions/quality-for-less-inc/ 1 4295 0 0
+/services/web-applications/ 11 89461 6 6
+/tag/itunes/feed/ 1 1851 0 1
+/tag/app/feed/ 1 1852 1 0
+/tag/clients/ 1 5815 1 0
+/author/joec/ 2 11528 1 1
+/tag/angle-advisors/ 1 5689 0 0
+/services/web-hosting/ 7 58819 2 2
+/2011/08/10/norms-field-of-dreams-site-launched/ 1 6343 0 0
+/portfolios/web-design-and-development/crookston-audio/ 1 4287 0 1
+/portfolios/web-design-and-development/ 2 22130 0 1
+/sitemap.xml.gz 2 1333 2 2
+/category/development-2/ 1 5993 0 0
+/terms-of-use/ 1 6318 0 0
+/portfolios/mobile-applications/wallpaper-finder/ 10 32963 9 6
+END_SIDER

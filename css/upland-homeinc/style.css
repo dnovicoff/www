@@ -1,0 +1,149 @@
+body {
+	margin-left: 0px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #D1CDC2;
+}
+a:link {
+	color: #336666;
+}
+a:visited {
+	color: #666666;
+}
+a:active {
+	color: #0099CC;
+}	
+
+
+.style1 {
+	color: #aeb0ae;
+	font-size: 11px;
+	font-family: tahoma;
+	font-weight: bold;
+}
+.style2 {
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: tahoma;
+	font-weight: bold;
+}
+.style3 {
+	color: #CCCCCC;
+	font-size: 11px;
+	font-family: tahoma;
+}
+.style4 {
+	color: #aeb0ae;
+	font-size: 11px;
+	font-family: tahoma;
+}
+.style5 {
+	color: #757472;
+	font-size: 11px;
+	font-family: tahoma;
+
+}
+.style6 {
+	color: #6c7379;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: tahoma;
+
+}
+.style7 {font-size: 9px;
+color: #6c7379;
+font-weight: bold;
+font-family: tahoma;}
+
+.style8 {
+	color: #B29e7b;
+	font-size: 12px;
+	font-family: tahoma;
+	font-weight: bold;
+	text-transform:uppercase
+}
+.style9 {
+	color: #7b7979;
+	font-size: 11px;
+	font-family: tahoma;
+
+
+}
+.gallery {
+	border: 1px solid #666666;
+}
+.style9small {
+
+	color: #7b7979;
+	font-size: 9px;
+	font-family: tahoma;
+}
+.menu {
+	color: #FFFFFF;
+	font-family: "Trebuchet MS", Arial, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: none;
+	display: block;
+	border: 1px solid #999;
+	padding-left: 0.4em;
+
+
+
+
+
+
+}
+.style6BDkBrown {
+
+	color: #605641;
+	font-weight: bold;
+	font-size: 11px;
+	font-family: tahoma;
+}
+.style6BlueLG {
+	color: #000066;
+	font-weight: bold;
+	font-size: 14px;
+	font-family: Tahoma;
+	font-style: normal;
+	line-height: 16px;
+	text-decoration: none;
+	font-variant: normal;
+	text-transform: none;
+
+
+
+}
+.style3Link {
+	color: #860C17;
+	font-size: 11px;
+	font-family: tahoma;
+	letter-spacing: .2em;
+	font-weight: bold;
+
+
+}
+.style8wide {
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: tahoma;
+	font-weight: bold;
+	text-transform:uppercase;
+	letter-spacing: .3em;
+
+}
+.box {
+
+	border: 1px solid #d3ac4f;
+}
+.style8wideBrown {
+
+	color: #B29e7b;
+	font-size: 12px;
+	font-family: tahoma;
+	font-weight: bold;
+	text-transform:uppercase;
+	letter-spacing: .3em;
+}

@@ -1,0 +1,19 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+		<div class="style5">
+ 			<img width="650" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" />
+		</div>
+		<div class="style5 tableStyle">
+			<a href="/img/upland-homeinc/communities/Kirklands/Kirklandslocation.pdf" target="_blank">
+			<img width="650" height="800" alt="Site Map" src="/img/upland-homeinc/communities/Kirklands/Kirklandslocation.jpg" />
+			</a>
+		</div>
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

@@ -1,0 +1,57 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="style5"><div><img width="468" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" /></div>                </td>
+            </tr>
+            <tr>
+              <td class="style5"><table bgcolor="#860C17" align="center" width="455" cellspacing="2" cellpadding="2" border="0">
+                <tbody><tr>
+                  <td><span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">INteractive
+                      Site PLan </span></td>
+                </tr>
+                <tr>
+                  <td><table bgcolor="#FFFFFF" width="100%" cellspacing="0" cellpadding="0" border="0">
+                      <tbody><tr>
+                        <td height="86" class="style5"><div style="padding-left:9px; line-height:14px; padding-right:6px; padding-bottom:6px" class="style4"> You
+                            can "Zoom in" on the site plan by clicking
+                            your right mouse button over the image below.  You
+                            can then drag the image around with the left mouse
+                            button.  To reset the image size, right click to
+                            access the control menu and then left click "Show
+                            all"</div></td>
+                      </tr>
+                      <tr>
+                        <td><p align="center"> </p>
+                          <p align="center"> </p>
+                          <p align="center"> </p>
+                          <p align="center" class="style3Link">Site plan image
+                            coming soon! </p>
+                          <p align="center"> </p>
+                          <p align="center"> </p>
+                          <p align="center"> </p></td>
+                      </tr>
+                      <tr>
+                        <td><table align="center" width="100%" cellspacing="0" cellpadding="4" border="0">
+                            <tbody><tr>
+                              <td class="style3Link" colspan="3"> </td>
+                              </tr>
+                            
+                        </tbody></table></td>
+                      </tr>
+                  </tbody></table></td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+          </tbody></table>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

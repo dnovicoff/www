@@ -1,0 +1,24 @@
+
+
+<taconite>
+	<replaceContent select=".overlayPageTitle">
+		<span><b>Executive-Cleaning-Solutions</b></span>
+	</replaceContent>
+
+	<replaceContent select=".overlayPage">
+		<span class="row">
+			<span class="col leftSide">
+				<a href="" target="_blank">
+				<img alt="ECS Careers" style="border-style:none;" src="/img/home/clients/executive-cleaning-solutions/careersThumb.png" height="300" width="300" />
+				</a>
+			</span>
+			<span class="col rightSide">
+				Pictured to the left is the careers page layout for executive-cleaning-solutions.
+				Included with this site was a sitemap, terms of service, and privace notifications.
+			</span>
+		</span>
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

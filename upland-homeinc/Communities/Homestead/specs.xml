@@ -1,0 +1,54 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="style5"><div><img width="468" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" /></div>                </td>
+            </tr>
+            <tr>
+              <td class="style5"><table bgcolor="#860C17" align="center" width="455" cellspacing="2" cellpadding="2" border="0">
+                <tbody><tr>
+                  <td><span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">Ready
+                      to Own Homes  </span></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                      <p class="style3Link">Homesite #232</p>
+                      <p>     • Floorplan - Hampton II<br />
+                            • 2800 Square Feet</p>
+                      <p class="style6">BEAUTIFUL NEW CONSTRUCTION 4 BEDROOM 2.5 BATH COLONIAL
+                        WITH 3 CAR ATTACHED GARAGE. THIS UNIQUE CONTEMPORARY
+                        OPEN FLOOR PLAN IS LOADED WITH UPGRADES! GOURMET KITCHEN
+                        WITH 48" ISLAND, CERAMIC 12X12 TILE IN MAIN AND
+                        MASTER BATH, JETTED TUB ON A DECK, 50 GAL WATER HEATER
+                        WITH 3 PIECE ROUGH IN FOR FUTURE BATH IN BASEMENT, HARDWOOD
+                        FLOORS IN KITCHEN, FOYER, BREAKFAST NOOK AND POWDER ROOM.</p>
+                  </div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                    <p class="style3Link">Homesite #182</p>
+                    <p>   • Floorplan - Stratford II<br />
+                       • 3200 Square Feet </p>
+                    <p class="style6">UNBELIEVABLE BUILDERS CLOSE-OUT! GORGEOUS
+                      2 STORY FOYER AND FAMILY ROOM. SPINDLE RAILINGS THROUGHOUT
+                      THE 2ND FLOOR OVERLOOKING THE FAMILY ROOM. GOURMET KITCHEN
+                      WITH ANGLED ISLAND. CROWN MOLDING IN LIVING ROOM AND DINING
+                      ROOM. JETTED CORNER TUB IN MASTER BATH. TOO MANY INCLUDED
+                      FEATURES TO LIST. THIS 4 BEDROOM COLONIAL IS A MUST SEE! </p>
+                  </div></td>
+                </tr>
+                
+              </tbody></table></td>
+            </tr>
+          </tbody></table>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

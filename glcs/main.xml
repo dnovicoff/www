@@ -1,0 +1,20 @@
+
+
+<taconite>
+	<replaceContent select="#quotescenter">
+		As the cost of living increases, and real wages stay the same, more and more
+		people are staying in and cooking at home. There is nothing more romantic than
+		a couple who prepairs food together. These are just a few of the reasons offered 
+		as to why get your knives sharpened. <br /><br />
+
+		We are offering sharpening expertly done for $3 a knife. <br />
+		Minimum $30 order. <br />
+		Check what <a href="#" id="service">services</a> we cover.
+	</replaceContent>
+
+	<eval><![CDATA[
+		$('#service').click(function(data)  {
+			getAJAX("services.xml");
+		});
+	]]></eval>
+</taconite>

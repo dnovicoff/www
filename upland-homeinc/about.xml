@@ -1,0 +1,43 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+		
+
+	<div class="outerShell" style="display:block;zoom:1;">
+	  <div id="content1">
+	    <div style="display:block;">
+	      <div style="display:block;text-align:left;">
+		<br />
+		Upland Homes was founded on a basic premise - build extraordinary homes that meet the high standards
+		homeowners expect in luxury living. The Upland team is committed to delivering quality construction, creating practical,
+		inviting floor plans and offering the opportunity to choose a home that best represents your personal style. We help you
+		select the best property from our available sites, walk you through the design process and oversee every aspect of the
+		building process. We will ensure your home includes all possible amenities. We serve as guide for both trade professionals 
+		and homeowners. We guarantee a pleasant and compelling building experience.<br />
+		<br />
+		Our high standard of excellence in quality craftsmanship and extraordinary service has made Upland a 
+		leading custom home builder in Michigan since the company was founded. We build with honesty, integrity and a solid commitment
+		to quality. We never sacrifice quality for profit. In fact, our homes generate revenue due to the reputation we have earned.<br />
+		<br />
+		Upland has always sought out the finest local architects, contractors and support staff. This enables us to be
+		one of Michigan's most respected builders. We use the latest in design technology and green building practices - on the forefront
+		of innovation. Our designs vary from simple to simply spectacular. Give your home the extra special attention that will make it
+		spectacular. Add your personal touch or let one of our experienced designers create the home you have envisioned. Select exactly
+		the touch you want, or just be inspired. From fixtures to fountains, countertops to covered patios, you'll find it! You will
+		have so much fun, you will never want to stop.<br />
+		<br />
+		The Upland team continues our commitment to you! We welcome a preview at one of our information centers to learn more 
+		about Upland Homes. One of our knowledgeable representatives will help you find a home that is right for you.
+		<div style="clear:both;"><br /></div>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

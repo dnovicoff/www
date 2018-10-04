@@ -1,0 +1,102 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody><tr>
+              <td class="style5"><div><img width="468" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" /></div>                </td>
+            </tr>
+            <tr>
+              <td class="style5"><table bgcolor="#860C17" align="center" width="455" cellspacing="2" cellpadding="2" border="0">
+                <tbody><tr>
+                  <td><span style="padding-left:5px; padding-top:10px; padding-right:6px;padding-bottom:6px" class="style8wide">Ready
+                      to Own Homes </span></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+				  <img align="right" style="margin-left:11px; margin-bottom:1px; margin-top:6px" alt="Spec 35" src="/img/upland-homeinc/communities/cobblestonebridge/Lot35_spec.jpg" />
+                      <p class="style3Link">Homesite #35</p>
+                      <p>    • Floorplan - Monticello <br />
+                         • 3243 Square Feet</p>
+                      <p align="justify" class="style6">THIS MAGNIFICENT CAPE COD HAS ALL THE
+                        AMENITIES YOU COULD EVER DREAM OF. THE LUXURIOUS 1ST
+                        FLOOR MASTER SUITE FEATURES A 2 WAY FIREPLACE &amp; JETTED
+                        PLATFORM TUB. GOURMET KITCHEN W/GRANITE COUNTER TOPS  &amp; STAINLESS
+                        STEEL APPLIANCES INCLUDING DOUBLE OVENS. A WROUGHT IRON
+                        SPINDLE STAIRCASE LEADS TO ENORMOUS 2ND FLOOR BEDROOMS AND
+                        A COZY LOFT W/BONUS FIREPLACE. 3 CAR SIDE ENTRY GARAGE,
+                        SOD, SPRINKLERS AND HARDWOOD
+                        FLOORS.</p>
+                  </div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                      <p class="style3Link">Builder's Model </p>
+                      <p>   • Floorplan - Wilshire <br />
+                         • 2860 Square Feet </p>
+                      <p class="style6">THIS MAGNIFICENT BUILDERS MODEL HAS ALL
+                        OF THE AMENITIES YOU COULD EVER DREAM OF. GORGEOUS COBBLESTONE
+                        EXTERIOR FACADE. GOURMET KITCHEN W/CHERRY CABINETS, GRANITE
+                        COUNTER TOPS, A DOUBLE ISLAND AND GE PROFILE STAINLESS
+                        STEEL APPLIANCES. CUSTOM 2 STORY MANTLE IN THE GREAT
+                        ROOM, CROWN MOLDING THROUGHOUT, TONS OF RECESSED LIGHTS.
+                        4 BEDROOMS AND 2 1/2 BATHS, 2ND FLOOR LAUNDRY, DUAL STAIRCASE. </p>
+                  </div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                      <p class="style3Link">Homesite #23</p>
+                    <p>    • Floorplan - Addington <br />
+                         • 3900 Square Feet</p>
+                    <p class="style6">THIS COLOSSAL SIZED HOME HAS 3900 SQ FT
+                      OF LUXURIOUS LIVING SPACE. THE GOURMET KITCHEN INCLUDES
+                      GRANITE COUNTERS, HARDWOOD FLOORS, AND STAINLESS STEEL
+                      APPLIANCES. THE HUGE MASTER SUITE FEATURES A COZY FIREPLACE,
+                      23 FT LONG CLOSET AND CORNER JETTED TUB. TO TOP IT OFF,
+                      FORMAL LIVING ROOM AND DINING ROOM, SEPARATE OFFICE/DEN,
+                      9 FT FIRST FLOOR CEILINGS, JACK-N-JILL SUITE, BASEMENT
+                      PLUMBED FOR BATH.</p>
+                  </div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                      <p class="style3Link">Homesite #12 Builder's Model </p>
+                    <p>    • Floorplan - Carnegie Hill <br />
+                         • 3900 Square Feet</p>
+                    <p class="style6">THIS EXQUISITE BUILDERS MODEL HOME FEATURES
+                      3900 SQ FT OF ABSOLUTE LUXURY. THE GOURMET KITCHEN W/TOP
+                      END CABINETS, GRANITE COUNTERS AND GE PROFILE STAINLESS
+                      STEEL APPLIANCES OPENS TO AN INVITING GREAT ROOM W/A CORNER
+                      FIREPLACE. THE ENORMOUS MASTER SUITE HAS A FIREPLACE AND
+                      ELEGANT MASTER BATH W/GRANITE VANITY AND CORNER TUB. 10
+                      FT 1ST FLOOR CEILINGS, 1ST FLOOR IN-LAW SUITE, BUTLER'S
+                      PANTRY.</p>
+                  </div></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#FFFFFF"><div class="style5" style="padding-left:9px; padding-top:1px; line-height:14px; padding-right:6px; padding-bottom:6px">
+                      <p class="style3Link">Homesite #25</p>
+                      <p>    • Floorplan - Pembrooke <br />
+                         • 3316 Square Feet</p>
+                      <p class="style6">THIS WELCOMING AND OPEN HOME WAS DESIGNED
+                        TO IMPRESS EVEN THE MOST SELECTIVE HOMEBUYER. 9 FT FIRST
+                        FLOOR CEILINGS, HARDWOOD FLOORS THROUGHOUT, TWO-WAY FIREPLACE
+                        NESTLED IN BETWEEN THE GREAT ROOM AND THE GOURMET KITCHEN,
+                        DUAL STAIRCASE W/OVERLOOK TO THE GREAT ROOM ONLY BEGIN
+                        TO DESCRIBE THE ELEGANT AMENITIES. THIS HOME ALSO FEATURES
+                        4 BEDROOMS AND 3 1/2 BATHS, INCLUDING A SPACIOUS MASTER
+                        SUITE.</p>
+                  </div></td>
+                </tr>
+              </tbody></table></td>
+            </tr>
+          </tbody></table>
+
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

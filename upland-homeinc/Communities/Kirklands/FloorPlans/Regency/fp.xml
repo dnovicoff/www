@@ -1,0 +1,34 @@
+
+
+<taconite>
+	<replaceContent select="#presentation">
+
+		<div class="style5" style="width:100%">
+			<img width="650" height="34" alt="Quality. Customized Approach. Luxury Living." src="/img/upland-homeinc/Quality_hdr.gif" />
+		</div>
+
+		<div style="width:100%">Second Floor Plan</div>
+		<div style="width:100%">
+			<img width="650" height="700" alt="Regency Floor Plan" src="/img/upland-homeinc/communities/Kirklands/regency2ndLvlFP.jpg" />
+		</div>
+
+		<div style="width:100%">First Floor Plan Version 3</div>
+		<div style="width:100%">
+			<img width="650" height="700" alt="Regency Floor Plan" src="/img/upland-homeinc/communities/Kirklands/regency1stLvl3FP.jpg" />
+		</div>
+	
+		<div style="width:100%">First Floor Plan Version 2</div>
+		<div style="width:100%">
+			<img width="650" height="700" alt="Regency Floor Plan" src="/img/upland-homeinc/communities/Kirklands/regency1stLvl2FP.jpg" />
+		</div>
+
+		<div style="width:100%">First Floor Plan</div>
+		<div style="width:100%">
+			<img width="650" height="700" alt="Regency Floor Plan" src="/img/upland-homeinc/communities/Kirklands/regency1stLvl1FP.jpg" />
+		</div>
+
+	</replaceContent>
+
+	<eval><![CDATA[
+	]]></eval>
+</taconite>

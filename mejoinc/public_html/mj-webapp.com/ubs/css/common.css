@@ -1,0 +1,72 @@
+/*
+ * $HeadURL$
+ * $Id$
+ * $Author$
+ * $Revision$
+ * $Date$
+ */
+
+.info, .success, .warning, .error, .validation {
+border: 1px solid;
+margin: 10px 0px;
+padding:15px 10px 15px 50px;
+background-repeat: no-repeat;
+background-position: 10px center;
+}
+.info {
+color: #00529B;
+background-color: #BDE5F8;
+/*background-image: url('info.png');*/
+}
+.success {
+color: #4F8A10;
+background-color: #DFF2BF;
+}
+.warning {
+color: #9F6000;
+background-color: #FEEFB3;
+}
+.error {
+color: #D8000C;
+background-color: #FFBABA;
+}
+
+.width5		{ width:5% }
+.width10	{ width:10% }
+.width20	{ width:20% }
+.width25	{ width:25% }
+.width30	{ width:30% }
+.width33	{ width:33% }
+.width40	{ width:40% }
+.width50	{ width:50% }
+.width60	{ width:60% }
+.width66	{ width:66% }
+.width70	{ width:70% }
+.width75	{ width:75% }
+.width80	{ width:80% }
+.width90	{ width:90% }
+.width100	{ width:100% }
+
+.alignLeft	{ text-align:left; }
+.alignRight	{ text-align:right; }
+.floatLeft	{ float:left; }
+.floatRight	{ float:right; }
+
+.noList	{ list-style:none; }
+.reportSpacer { margin-bottom:12px; }
+.note	{ font-size:90%; font-style:italic; }
+.hidden	{ display: none;}
+
+#rate-examples	{ display:none; }
+.rate-table		{ margin-left:80px; width:520px; }
+.rate-table th	{ background:#fcfdfd; color:#222; font-weight:bold; margin:2px; padding:4px; text-align:center; }
+.rate-table td	{ border:1px solid #a6c9e2; padding:2px; text-align:center; width:100px;  }
+
+[icon ^="pdf"] 		{ background:transparent url('/images/ui/16/file_extension_pdf.png') no-repeat center right; padding-right: 20px; }
+[icon ^="doc"] 		{ background:transparent url('/images/ui/16/file_extension_doc.png') no-repeat center right; padding-right: 20px; }
+[icon ^="xls"] 		{ background:transparent url('/images/ui/16/file_extension_xls.png') no-repeat center right; padding-right: 20px; }
+[icon ^="add-base"] { background:transparent url('/images/ui/16/coins_add.png') no-repeat center left; padding-left: 20px; }
+[icon ^="add-tier"] { background:transparent url('/images/ui/16/chart_bar_add.png') no-repeat center left; padding-left: 20px; }
+[icon ^="examples"] { background:transparent url('/images/ui/16/help.png') no-repeat center left; padding-left: 20px; }
+[icon ^="bug"] { background:transparent url('/images/ui/16/bug.png') no-repeat center left; padding-left: 20px; }
+[icon ^="close"] { background:transparent url('/images/ui/16/cross.png') no-repeat center left; padding-left: 20px; }
